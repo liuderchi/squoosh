@@ -1,0 +1,6 @@
+'use strict';
+
+var styles = require('./styles2.css');
+var _appendCss = require('./_appendCss');
+
+_appendCss['default'](styles['default']);

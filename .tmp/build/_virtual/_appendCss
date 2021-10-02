@@ -1,0 +1,12 @@
+'use strict';
+
+Object.defineProperty(exports, '__esModule', { value: true });
+
+function appendCss(css) {
+    if (true) return;
+    const style = document.createElement('style');
+    style.textContent = css;
+    document.head.append(style);
+  }
+
+exports.default = appendCss;

@@ -1,0 +1,11 @@
+'use strict';
+
+Object.defineProperty(exports, '__esModule', { value: true });
+
+var colors = require('./colors.css');
+var util = require('./util.css');
+var style = require('./style.css');
+
+var initialCss = colors['default'] + util['default'] + style['default'];
+
+exports.default = initialCss;

@@ -1,0 +1,2318 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "signature": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "signature": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.es2020.d.ts": {
+        "version": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
+        "signature": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.esnext.d.ts": {
+        "version": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
+        "signature": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "signature": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "signature": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "signature": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "signature": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "signature": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "signature": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "signature": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+        "version": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "signature": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2020.promise.d.ts": {
+        "version": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
+        "signature": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts": {
+        "version": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
+        "signature": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2020.string.d.ts": {
+        "version": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
+        "signature": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts": {
+        "version": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
+        "signature": "936d7d2e8851af9ccfa5333b15e877a824417d352b1d7fd06388639dc69ef80a",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2020.intl.d.ts": {
+        "version": "31e8df2398e328077079c17ea4f1664bad0a34adf8b0608837e504e310e329a1",
+        "signature": "31e8df2398e328077079c17ea4f1664bad0a34adf8b0608837e504e310e329a1",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "signature": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.esnext.string.d.ts": {
+        "version": "fb4416144c1bf0323ccbc9afb0ab289c07312214e8820ad17d709498c865a3fe",
+        "signature": "fb4416144c1bf0323ccbc9afb0ab289c07312214e8820ad17d709498c865a3fe",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.esnext.promise.d.ts": {
+        "version": "cd6efb9467a8b6338ece2e2855e37765700f2cd061ca54b01b33878cf5c7677e",
+        "signature": "cd6efb9467a8b6338ece2e2855e37765700f2cd061ca54b01b33878cf5c7677e",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.esnext.weakref.d.ts": {
+        "version": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "signature": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "affectsGlobalScope": true
+      },
+      "../../codecs/avif/enc/avif_enc.d.ts": {
+        "version": "f48979c3a4e25912cea353db1d879dc7abe27139465924cf85c3ed5f54c28f93",
+        "signature": "f48979c3a4e25912cea353db1d879dc7abe27139465924cf85c3ed5f54c28f93",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/avif/shared/meta.ts": {
+        "version": "c5c8997d7daffce6718f206937d07d84b157cb37f51356357fa5da46ffa66637",
+        "signature": "34ac2e6bba2c827ec729831f021492d7d422c12e0028584f6823f85f01702698",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/comlink/dist/umd/protocol.d.ts": {
+        "version": "8b51bf0307af4de46a981eaaf8ff99b76fdd424b4b185c92bb6ce149ba7430ec",
+        "signature": "8b51bf0307af4de46a981eaaf8ff99b76fdd424b4b185c92bb6ce149ba7430ec",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/comlink/dist/umd/comlink.d.ts": {
+        "version": "e68b7e9cb314ef99931b20576350fea7c6405bdb77ea80fece3d4987514c5e84",
+        "signature": "e68b7e9cb314ef99931b20576350fea7c6405bdb77ea80fece3d4987514c5e84",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/avif/dec/avif_dec.d.ts": {
+        "version": "2c4ddcb1f32c4816799752684666370abb2db568f0b117079fef27d43c59c290",
+        "signature": "2c4ddcb1f32c4816799752684666370abb2db568f0b117079fef27d43c59c290",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/worker-utils/index.ts": {
+        "version": "92826ef817c52e9b8b1d1d3ba6c0b39e44436117103e6cfadf1d60ebec787c68",
+        "signature": "86b34fb778a074bec98970976cd78a2295c3f52792fae29d5548d9792b4a5d85",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/decoders/avif/worker/avifdecode.ts": {
+        "version": "0d88ec8a3566500825b9e9a37e637acc605358d16f2012395d55104e6707f0dd",
+        "signature": "c133ddb5d020b9fea9608f34c482fa18d6db8873903477dc3b238f01092ae293",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/jxl/dec/jxl_dec.d.ts": {
+        "version": "5846165d5b980a54e57088ab145cd2e181febb91aab6e2351c770747d94ee6e8",
+        "signature": "5846165d5b980a54e57088ab145cd2e181febb91aab6e2351c770747d94ee6e8",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/decoders/jxl/worker/jxldecode.ts": {
+        "version": "26bf55e5b9c048844617936b2d3a8c8562e48c3f32432fc66f3d461847d4bdd2",
+        "signature": "5d1883a87b271b470f9153454e201c213a5d58884be2296fc8ea603965f85e1e",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/webp/dec/webp_dec.d.ts": {
+        "version": "43771959601d9a0a45e4f68d5f730c2ad0a09441da0a99cb3b40668368880663",
+        "signature": "43771959601d9a0a45e4f68d5f730c2ad0a09441da0a99cb3b40668368880663",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/decoders/webp/worker/webpdecode.ts": {
+        "version": "3960bd370c703429317b9866ed65eb5ba99830e79a13b16fe9bdfdc49b4f71e1",
+        "signature": "46c6c1e5a8e4e2a1be5af21b33b6b5172a1e97adede0e25dcd08f8d2d05080d1",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/wp2/dec/wp2_dec.d.ts": {
+        "version": "ea31eebf5aa0e2383a5527e76731ae63dff9adf2f9a2cd0d956cf4867888f8a5",
+        "signature": "ea31eebf5aa0e2383a5527e76731ae63dff9adf2f9a2cd0d956cf4867888f8a5",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/decoders/wp2/worker/wp2decode.ts": {
+        "version": "2d4772501e3645ad6d0e06768f17e4938130ff53830de414ca610a8caff9f482",
+        "signature": "652f85ef2351659308975100334aae01a3bd383b7104216497762f07820cebb8",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/wasm-feature-detect/dist/index.d.ts": {
+        "version": "8df209e603e7f2b0edaa278884f6855006ad080d154378b574d0ecd93bee8b2b",
+        "signature": "8df209e603e7f2b0edaa278884f6855006ad080d154378b574d0ecd93bee8b2b",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/avif/enc/avif_enc_mt.d.ts": {
+        "version": "9cda2654f286944eeaff6025b64fe034e242038ffdc77a7a2c509048d6543f8c",
+        "signature": "9cda2654f286944eeaff6025b64fe034e242038ffdc77a7a2c509048d6543f8c",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/avif/worker/avifencode.ts": {
+        "version": "0b261402564ce5efab514f7523b838b270a1f766bd398a294c834af698fdc451",
+        "signature": "8ef4775fca1bc289b8bd322bf8014574844ee1436910a35a19b90e9e6936766a",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/jxl/enc/jxl_enc.d.ts": {
+        "version": "ad96e8a3877c89bcddd85048a63eef6da08a4cc8be88ea64be42a2b179366c5e",
+        "signature": "ad96e8a3877c89bcddd85048a63eef6da08a4cc8be88ea64be42a2b179366c5e",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/jxl/shared/meta.ts": {
+        "version": "3f62db403ac833c35e504926a47bcfd0c758528c062e0d6a50bb7cf0ff2860f0",
+        "signature": "d7b957987bc8f4b070e57d61a45c53814e5d6eb31673154951c28c2f4ec4c5d6",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/jxl/enc/jxl_enc_mt_simd.d.ts": {
+        "version": "f2b55da3f8e7fe419de7a2d431c8ebc288ab0502dadbd6ada44ff7247a844560",
+        "signature": "f2b55da3f8e7fe419de7a2d431c8ebc288ab0502dadbd6ada44ff7247a844560",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/jxl/enc/jxl_enc_mt.d.ts": {
+        "version": "f2b55da3f8e7fe419de7a2d431c8ebc288ab0502dadbd6ada44ff7247a844560",
+        "signature": "f2b55da3f8e7fe419de7a2d431c8ebc288ab0502dadbd6ada44ff7247a844560",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/jxl/worker/jxlencode.ts": {
+        "version": "d23cae92ec440ef3020875f2d7fc94a601d47ec39bed489903c131ddc3a1ab05",
+        "signature": "695e4c5f148ac95b4d705e69b99ead8f2a6463d0c894055aae341762814fc3b9",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/mozjpeg/enc/mozjpeg_enc.d.ts": {
+        "version": "d87b1d5872f90669bf97f8b83a47cb77b3501efdd0ddc1d3bf6c20ab724cebeb",
+        "signature": "d87b1d5872f90669bf97f8b83a47cb77b3501efdd0ddc1d3bf6c20ab724cebeb",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/mozjpeg/shared/meta.ts": {
+        "version": "4d8d807f62b42d6542c08bd9745883f8f669ff5d36ecc20545a3c240dc325916",
+        "signature": "87737639ae4b33e8d6b61cf77f5dd9b66d15f985c31216f832167ba1ad503126",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/mozjpeg/worker/mozjpegencode.ts": {
+        "version": "164ec0e511b94e35d76d1446e6e2550d267810d41e160a6cf71939e15f402d8d",
+        "signature": "06f74681246981ac497469a157f8fa53c0d8411e0b39b4a178ff4dbe56bd5dae",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/oxipng/shared/meta.ts": {
+        "version": "8a2ec9ca62b8b427a03af61690af526b6e00e44d90266218b8914382b8f1cb0f",
+        "signature": "be4d1bb7689c4347a05114f722a4ad990cdc535a99eddb92faceb47852d14ed7",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/oxipng/pkg-parallel/squoosh_oxipng.d.ts": {
+        "version": "849fc97ef2625d8a2dabb8e8921d0470e8f35bd3dbd34d03c05f8b2a279da779",
+        "signature": "849fc97ef2625d8a2dabb8e8921d0470e8f35bd3dbd34d03c05f8b2a279da779",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/oxipng/pkg/squoosh_oxipng.d.ts": {
+        "version": "46ab0d9027b2bfd2028dc8e9216becc3e0ddbd535565d9addb3f2c51b85b7279",
+        "signature": "46ab0d9027b2bfd2028dc8e9216becc3e0ddbd535565d9addb3f2c51b85b7279",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/oxipng/worker/oxipngencode.ts": {
+        "version": "a66ee8d685d601ec4d2fb0f180b7c7b2d76041293a8469a73a51f36e5f0dfd14",
+        "signature": "d51373feaaf5a73e5e60687a0ce51109ef9c5dbc004e53b183b90255e80b1b7e",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/webp/enc/webp_enc.d.ts": {
+        "version": "ca06b07b4a41f7e53e57f5bea598600cb962e275ca76686a78c3f61d8a5cd458",
+        "signature": "ca06b07b4a41f7e53e57f5bea598600cb962e275ca76686a78c3f61d8a5cd458",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/webp/shared/meta.ts": {
+        "version": "7f12252b51ea21595e4fb66b8aadeff43b18b25ae91e817a2a80a2e01f1a1079",
+        "signature": "b008052ca3d1077b70d326779aaca4d62e0625f4a65b822df9f47c4f37eac4e8",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/webp/enc/webp_enc_simd.d.ts": {
+        "version": "8fcd1a5abfa1db0de15a39581c23c712d9f904eec2bf22b241d9e98f489e6e23",
+        "signature": "8fcd1a5abfa1db0de15a39581c23c712d9f904eec2bf22b241d9e98f489e6e23",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/webp/worker/webpencode.ts": {
+        "version": "b84c55fcbb307383113a032502df8187f9653fe854ec3d5dea32f59912cb4d4b",
+        "signature": "7db4dc2d03f8a5a9d25b64773e680a92005450498566a9c9ba0436ff85d5592c",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/wp2/enc/wp2_enc.d.ts": {
+        "version": "2f1a945218f01334529eeadfab8130dfd6f5c0385855b94a4e89ee1b021e3c8e",
+        "signature": "2f1a945218f01334529eeadfab8130dfd6f5c0385855b94a4e89ee1b021e3c8e",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/wp2/shared/meta.ts": {
+        "version": "accfc892c743c13a711d63d179cd7f55af7a5ac2ec6c1267aee4eb5d210993a5",
+        "signature": "94d222147987aff5ca1a39831375b7577f3163a4fb99c519ecc02d92ba6141f0",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/wp2/enc/wp2_enc_mt_simd.d.ts": {
+        "version": "2b2f95e39846a7c671251952a9f279ac6f01bec08f2e40416e2cedd9c90bd948",
+        "signature": "2b2f95e39846a7c671251952a9f279ac6f01bec08f2e40416e2cedd9c90bd948",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/wp2/enc/wp2_enc_mt.d.ts": {
+        "version": "2b2f95e39846a7c671251952a9f279ac6f01bec08f2e40416e2cedd9c90bd948",
+        "signature": "2b2f95e39846a7c671251952a9f279ac6f01bec08f2e40416e2cedd9c90bd948",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/wp2/worker/wp2encode.ts": {
+        "version": "2a1565aecec5c8d1062b64d89bbfceb34c1f23675e1ea821425c4dc2910a23e9",
+        "signature": "2e78d1f6720b4a0afee3da52d9695486276e1bb30e72523716d9ea7ce4ea1e51",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/preprocessors/rotate/shared/meta.ts": {
+        "version": "c24482f3296090673a117885cde31734206ea5ed7e874fd2e92fa13b29992e15",
+        "signature": "57dc305e75b778ddb6ec3736125d75721296922876a0ee840499f13fa6feb4b1",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/preprocessors/rotate/worker/rotate.ts": {
+        "version": "79e105155d9dbb7f00a900556cdc21294eefb4615123c37ad58daa5a1055c77e",
+        "signature": "013904e4d19c568b0480ff5afedc66c82498d66915683d523fe2a43646ce7669",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/imagequant/imagequant.d.ts": {
+        "version": "479f54235e950206ff27b7e90fa1624beb2122b15862af5a8cc8d750f2728970",
+        "signature": "479f54235e950206ff27b7e90fa1624beb2122b15862af5a8cc8d750f2728970",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/quantize/shared/meta.ts": {
+        "version": "2fa543d06903cc2cda33aeb707f01d5722d72c7cca0c5debff52697de2e78910",
+        "signature": "2256ec6997f60a72aad7bcf47c7a6c1ec9873269e8be820702e025854f1f3f5f",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/quantize/worker/quantize.ts": {
+        "version": "7b667aeedc79e3f9248d2f9b6919c920e60647e8d9b1fa524623e127580a69e7",
+        "signature": "0b021c9b792ff650cb9698967585af0297b27f5b3e223afa3450704724bdb4b2",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/resize/shared/meta.ts": {
+        "version": "e1f9cc24d778514e35aeb618675dc655d9d080719b18a4fc8dd2538a52ce227b",
+        "signature": "faf38b94a50c9140094a0494afcea1cf99b8b4e1766a2478d1fad7b2bc0f3933",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/resize/shared/util.ts": {
+        "version": "01925ff6e0092b676fb28c5d04a4dffca0638408b26f76e188f608eb12757016",
+        "signature": "330d5668c02a814d33a553f9d0099e7ce959f54af0778e31e1b40493b51057b0",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/resize/pkg/squoosh_resize.d.ts": {
+        "version": "2341b32cac4707700a141f95f1719f618fc5342c551792d38f903c05954f7114",
+        "signature": "2341b32cac4707700a141f95f1719f618fc5342c551792d38f903c05954f7114",
+        "affectsGlobalScope": false
+      },
+      "../../codecs/hqx/pkg/squooshhqx.d.ts": {
+        "version": "732822ea7c73bc36a0ab8245429f965670d84d13a97f880064f0a1c441b36c38",
+        "signature": "732822ea7c73bc36a0ab8245429f965670d84d13a97f880064f0a1c441b36c38",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/resize/worker/resize.ts": {
+        "version": "27e917c4ab160f22a197d257c57ec49376c4b4b24fb7013a9cf1ee8adbdc73af",
+        "signature": "642185fbe091bc376ba673f375196b32839ec35dc318bff7cedd804e7b1db866",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/worker-bridge/meta.ts": {
+        "version": "7910532f942f3d1193a681b9acd2c259e83507067eb11d469e11569842139647",
+        "signature": "b0942206256a163fae4eb1bbdb352826f626e0f60fb2d862da1178377b7dc26c",
+        "affectsGlobalScope": false
+      },
+      "../../src/features-worker/util.ts": {
+        "version": "2f2d630e763ffbd978172be99cd589a3bcf2ff55880427e074990193e16960e2",
+        "signature": "289fdd3a7168f636cbab1f976c60e51c89033b770897d49cb302d88766d1b021",
+        "affectsGlobalScope": false
+      },
+      "../../src/features-worker/index.ts": {
+        "version": "2a818242e1b36fe99d359f31d68aa2f08da45095606070f92462f9a8877019d1",
+        "signature": "313bbf941525e50459a8109810e810dc42403783962c9ca782954666cc401073",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/util/canvas.ts": {
+        "version": "518d922e3527c896b1b279df1fc797ab3674b5579e8db12c226c16cecd28f49f",
+        "signature": "a44ca04cb03b5cf01cebce25c041f0ab8a3dc2ce433d7482162a1be36edcd7de",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/util/web-codecs/index.ts": {
+        "version": "387cfe4b3b25bb19766152c9d24d5afa4e9ab52518824947442e769449a72956",
+        "signature": "032f093d3628f2815c23a47ba9a88e60673af6d0979fba077cac51d6661aca81",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/util/index.ts": {
+        "version": "7abacc964ef8b616f2f79bb94ba952e0b35b52991bf85f4bda85970c8b59da1b",
+        "signature": "d89036690d0183c2d4a28290e5d2972722adbd39e2e213dc6456eb338a20a707",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/worker-bridge/index.ts": {
+        "version": "b436f2a327c7a51d7ed4182e8a3d46db72e21e8f58b10a6fcb1d4d2b0c8db2d7",
+        "signature": "2eb9cccb5155d7bd5c2f43458902d4f564c82c59b80812eabd7307824445c015",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/preact/src/jsx.d.ts": {
+        "version": "d323fbb93ee33a1dd61c526e4ea503d6860526385bef1ebc701be15e8ad267ed",
+        "signature": "d323fbb93ee33a1dd61c526e4ea503d6860526385bef1ebc701be15e8ad267ed",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/preact/src/index.d.ts": {
+        "version": "b4a43b6cd322dea85b4aed92fefb0c6324b6ae21129b34c7412e0132a9061b9d",
+        "signature": "b4a43b6cd322dea85b4aed92fefb0c6324b6ae21129b34c7412e0132a9061b9d",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/style.css.d.ts": {
+        "version": "0d1d19eb87578fe3e5b3e85d2b886125be8d3e593da5dfe91fddef73e04ba05c",
+        "signature": "0d1d19eb87578fe3e5b3e85d2b886125be8d3e593da5dfe91fddef73e04ba05c",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/checkbox/style.css.d.ts": {
+        "version": "0755227d217dbf78d46a2d55dfcb87d4b6b0f33bc2a87cf849e5d1bc18601c92",
+        "signature": "0755227d217dbf78d46a2d55dfcb87d4b6b0f33bc2a87cf849e5d1bc18601c92",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/icons/index.tsx": {
+        "version": "860acb6e5057ae201200771c64b347d0f6f233178da275a6f9a58a890c698f54",
+        "signature": "e6011a055b53b8884b0546ca0774c608fcda4f35840d57928dcb546ec42b8766",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/checkbox/index.tsx": {
+        "version": "4bea220098025caedf448be64efffe2844ed12970bb595227f90232b1d16e542",
+        "signature": "d72c4e816a4357b2b3da2498b16d5c9f4d1e6e94c8fd83fe6793854c81078367",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/expander/style.css.d.ts": {
+        "version": "e6da03c8c283a813c6570dd5e55f25ff7aed1b4788e93c305078a597337eaf9c",
+        "signature": "e6da03c8c283a813c6570dd5e55f25ff7aed1b4788e93c305078a597337eaf9c",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/expander/index.tsx": {
+        "version": "b5b0e4740ba63a4bfee3d4bf9f3404e05bf1cc5e2d514d94cb454f24bb328372",
+        "signature": "c6d720accdcc9edb281ead8ccaf08817b53ef7242094ed7f432db422c076cb58",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/select/style.css.d.ts": {
+        "version": "7a817c486747598ead8912ce05f5c7760483c282a6eeab377701d384dc158bac",
+        "signature": "7a817c486747598ead8912ce05f5c7760483c282a6eeab377701d384dc158bac",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/select/index.tsx": {
+        "version": "bb5867552a79f1767141d9634167f16bcac27b3a78db1d31e64bc2c76225e464",
+        "signature": "00211f4969ecc988f04895dfedf6c77a1fec600864410b23caf5f33faaa01ea6",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/range/style.css.d.ts": {
+        "version": "3f7b3ad36dbef76ab8b24b0b07d345b5a567bc5b9c0b206eafd55fb122e833ee",
+        "signature": "3f7b3ad36dbef76ab8b24b0b07d345b5a567bc5b9c0b206eafd55fb122e833ee",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/style.css.d.ts": {
+        "version": "a9ec4721cce43125473bfec7e7399249046ab0a2be02cd415f1ee95d1beca5ae",
+        "signature": "a9ec4721cce43125473bfec7e7399249046ab0a2be02cd415f1ee95d1beca5ae",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/index.ts": {
+        "version": "fe16900323faefeb4ebfaef44cebad8d9661e47f92a92060862b78ebd2bb7848",
+        "signature": "26409be241d9b6091289406e740eb27d7bdb57d85cb916cebc6b8f20e7c2569a",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/prerendered-app/util.ts": {
+        "version": "7e798f4b66cdf29835831c1363e634c85231ed58a63d6daffb1ba2917c991776",
+        "signature": "cc444b52c72d30d0a0d58ef058552ed114b2994d65fca64d321c5a4a35ad21b9",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/range/index.tsx": {
+        "version": "017e139e1061ac81ce078edc3367927994f01f4ef238794d75c82c72bc09edce",
+        "signature": "a069e5ca24a1a9542a47a0efeb89d5453677ec6714b727f9dcc43272a026784d",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/linkstate/src/index.d.ts": {
+        "version": "97d5f7925ada8ec47b4837772e001bc17c3f7004e79018c4da73d30dcb56edd8",
+        "signature": "97d5f7925ada8ec47b4837772e001bc17c3f7004e79018c4da73d30dcb56edd8",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/revealer/style.css.d.ts": {
+        "version": "b8921988941804dc99448815c1526a58789d9fa370ff3b715a0098cdd73a8770",
+        "signature": "b8921988941804dc99448815c1526a58789d9fa370ff3b715a0098cdd73a8770",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/revealer/index.tsx": {
+        "version": "03655f796cbf5a47327bda9620e3d63446bbb4c68b00b2ebf006d8b973a8c02a",
+        "signature": "eb3cf0ec1f54dadd5a9330bf7655fa3643becb36501d834208c9907700c8e761",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/avif/client/index.tsx": {
+        "version": "0485d131b6e27063575124f8987590f3111d4b70b9d9da448aec8cf26f394400",
+        "signature": "e8671ba18ad9b21dbcc4e7bfc03444d0e727b3a83598dd59949e21dae984c943",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/browsergif/shared/meta.ts": {
+        "version": "2e9fd59c7feb0df4f8867452acb2fd69c91a46651e5ab673fbeef3e0249b3f88",
+        "signature": "9305a3d1cc991807676ecd15597700e8ab5b3d66d062d48192808049599a3e2e",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/browsergif/client/index.ts": {
+        "version": "9d66718942eb47430f0797b6ceb5dfcc16da5eedc828f73b32571fdeeaf11203",
+        "signature": "567bf235fc028dfb2c20565501eae075b1b7a89a4a329bd160bcb144dc227e5f",
+        "affectsGlobalScope": false
+      },
+      "../../emscripten-types.d.ts": {
+        "version": "a07c805d64dadabd27f5ca77a5902621484b97719296db7141441f331174a281",
+        "signature": "a07c805d64dadabd27f5ca77a5902621484b97719296db7141441f331174a281",
+        "affectsGlobalScope": true
+      },
+      "../../missing-types.d.ts": {
+        "version": "66c6f51eefd942dd715f57f3ad2d94cd88619a81d1947691d4c82c5b134a93c1",
+        "signature": "66c6f51eefd942dd715f57f3ad2d94cd88619a81d1947691d4c82c5b134a93c1",
+        "affectsGlobalScope": true
+      },
+      "../../src/features/encoders/browsergif/client/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/client-utils/index.tsx": {
+        "version": "74ba541d03565919a2f712b1586b6ef8baacc2f2943339985b8bf280e528d530",
+        "signature": "a8f6437695d8f4d3e9498cf56470609be1df9a941f5720def9b6bbf2cfa28de0",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/browserjpeg/shared/meta.ts": {
+        "version": "38864eb5babcf5af6a3a78961b2ba8c3de1de4dd945a2387f82cf4f1ce0d9121",
+        "signature": "98b54b364f089a9ea01520c6079190773ca1064aab484d1684f9fb5c607ef854",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/browserjpeg/client/index.ts": {
+        "version": "46a5b33d6745ffe0bb0b1b91d6e6bac82f270b60fe8e90c3cce9d92ad9ace39d",
+        "signature": "54127ccdab1ef407f66210a1fe8dff55cc73c3aee8253793e0857e9e86af0dc7",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/browserjpeg/client/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/browserpng/shared/meta.ts": {
+        "version": "a3f1f6b7af8cef0f66611a6179510d4144a856df95c78e7d2a11d60f7a9463f0",
+        "signature": "624138506f3ec0bc4ec0103fe842b3a381fb2bdafc527b04890c67c6f6a7ff12",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/browserpng/client/index.ts": {
+        "version": "5d794984f96d8830efc2fd3396c4c50fc4587a41d45a8dae4bcc37e2d2bb875c",
+        "signature": "72c82ebbd10495a99540742818690eb699e22d4b5aba2b6c2cc7d51869a34884",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/browserpng/client/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/jxl/client/index.tsx": {
+        "version": "9a217acd41c4a13ac29d0e4e67ad27522a163116796eb95cf3c8c9a5b338bb2f",
+        "signature": "a10225232183686bed80d17678fc29495889c89fb53dcff77349f54a41db17f8",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/mozjpeg/client/index.tsx": {
+        "version": "2902e3f40a4ccb93fc04e1bbc6622683f107b77f4f4667b444b2b00a19c0d4a0",
+        "signature": "7d9ecbdff368184dc5d68c2170068ffd8590b4e87f15ecbd54d5e26ed96bc68c",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/mozjpeg/client/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/oxipng/client/index.tsx": {
+        "version": "95ec193a9e101950f2b06322d8c23aad59c89959208ac5e440fd73d504a59f0f",
+        "signature": "500662eeacf3a2060bd04c618534d387810ded18052910dbaba943b5596b37cf",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/webp/client/index.tsx": {
+        "version": "6cdde9a4c545157f3dbb2bd288c2e1d04d56e14cc781deb59b19b4e8a0dce733",
+        "signature": "dfbac1043180486854dd0bc9d79ab0bc49effa4a6074c75652e14100cacef08f",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/wp2/client/index.tsx": {
+        "version": "0a8a4c3d23e3c3ea973571b2fc66bc638615bd1e7d5427321b4278b291605c1e",
+        "signature": "62e97f9430a940b546834c4d12872820ac7c454e1f89e75db8427a6738bede98",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/quantize/client/index.tsx": {
+        "version": "123c3aa36ab3ff10da099893ce4e8279bd0a22ce5eab467902d6df2f4e572ca0",
+        "signature": "9c782add60eb03b5aaa38e0e06517125d19e12fe7828ebdf9c53d9bedbe42018",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/style.css.d.ts": {
+        "version": "cdd02a7852a9a77c22d6ba34511a12523a07b2991c3d3858a525a585387bb373",
+        "signature": "cdd02a7852a9a77c22d6ba34511a12523a07b2991c3d3858a525a585387bb373",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/feature-meta/index.ts": {
+        "version": "0b1e42ce7bbeab7190babb02972bdb46753ba4835590bfa99c2410c30aafc0de",
+        "signature": "5202bc5e1b3f5e936b7aa132b65a045bf2894b4f59f807d8cd5a9fc671dbbc97",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/pointer-tracker/dist/index.d.ts": {
+        "version": "83209ea9a3d878ad248fcec2d93a5a0e98b1a600696497b0a90a39fd2bbfe3cd",
+        "signature": "83209ea9a3d878ad248fcec2d93a5a0e98b1a600696497b0a90a39fd2bbfe3cd",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/index.ts": {
+        "version": "a5cd32730faeb26a03731468f9fe50ea0e0bd773ccd72d88bf913e039df362f5",
+        "signature": "716d5449f2b9ca1012812cd914194237122a018f6b83ebe60ba72357bf747ca3",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/output/custom-els/twoup/styles.css.d.ts": {
+        "version": "04c403f098806634d2116f88b665bbee1602040e3b7f840ba5610345ef6709b7",
+        "signature": "04c403f098806634d2116f88b665bbee1602040e3b7f840ba5610345ef6709b7",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/output/custom-els/twoup/index.ts": {
+        "version": "2e3bf7617a4eeb175faede31d56dfffac5d108ce06a16b6e7ea32de92ae01827",
+        "signature": "c715f52cbf4cc64e854b7f068e69229e7ffbdde69ab31e00484e9163ff2faff1",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/output/style.css.d.ts": {
+        "version": "261b78e3a890e22fd0c1cbcc4da74ce836fe70baf7ccd82d5608bb53d5af9929",
+        "signature": "261b78e3a890e22fd0c1cbcc4da74ce836fe70baf7ccd82d5608bb53d5af9929",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/util/clean-modify.ts": {
+        "version": "43d50749528902e0d5b4ead41284e419cc8aa3e8416ececcc081368e0ec67714",
+        "signature": "8c6c4d5a789f925a21b4cff40b945ca9503ef7cb533ae2c674e6b15a36e32444",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/output/index.tsx": {
+        "version": "417174dee619f3d330347b94e2384c447588601c3146fbaafccf11e85b48bb0b",
+        "signature": "1009415e22f9b45300dfd1601134f9c403a3cc6c03acc02578363d90c292e231",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/toggle/style.css.d.ts": {
+        "version": "c223343f37b21ac12878e94ffebb4b8073a46616e04c9f14e6c63e365965c964",
+        "signature": "c223343f37b21ac12878e94ffebb4b8073a46616e04c9f14e6c63e365965c964",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/toggle/index.tsx": {
+        "version": "bb878f34218a8cb940d1c3a612ccdb29afbf21041330d78b214240526b790357",
+        "signature": "02f99ce7c813f9f24a96ee9adb7eb978bc8d736cfb8dc387639c2cc1c308fd2e",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/index.tsx": {
+        "version": "ef2e75e8fa6820f3c0322efd1163c37e8b01a821f5c986f71115bb240cfae1da",
+        "signature": "d48c2568bf97383e7ae49abd3e2753af769a7962f9de61fcfdc5557df1034b47",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/result-cache.ts": {
+        "version": "a9496988bd5c0d2749e28fcea62fe7b8d6b34700e08d8b8ae82650762b6528ab",
+        "signature": "4fc9426be41956965fb1a6c3814bbd1c78286d0164141dc1ba80b6fb4b117ab1",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/custom-els/multipanel/styles.css.d.ts": {
+        "version": "6820a11fa528c91de607d52ff3bea38ffa201f5728b54998b62cabd51ea499d7",
+        "signature": "6820a11fa528c91de607d52ff3bea38ffa201f5728b54998b62cabd51ea499d7",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/custom-els/multipanel/index.ts": {
+        "version": "56317e94e924df367adc82c8e58442e8e36efb4fef6ef0b45ac6b8bd3783fa31",
+        "signature": "681c0276ec039c3ae7b600e4ae7d18307df8954869f1e33ba60e368193252e06",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/results/style.css.d.ts": {
+        "version": "fa0c2be86d55a725296b5bb6433362f1ec7b3f45f7d0165902965ec966a6d941",
+        "signature": "fa0c2be86d55a725296b5bb6433362f1ec7b3f45f7d0165902965ec966a6d941",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/custom-els/loading-spinner/styles.css.d.ts": {
+        "version": "9d9bcc32f5f9f5a5f20aaeb27091b8c08061f507558287425918ccc5fe44d532",
+        "signature": "9d9bcc32f5f9f5a5f20aaeb27091b8c08061f507558287425918ccc5fe44d532",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/custom-els/loading-spinner/index.ts": {
+        "version": "4d53272c4fa77c807054af55f75eea5ba16b8131a5f2880806b577772842356d",
+        "signature": "33ac47d6f620ce516ca8bc8fdbbd54fe0075d08f4ce65af9a98128c4436f707d",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/results/pretty-bytes.ts": {
+        "version": "8d0110d83e8d8d67f95f464feabb8022e51dea649c9274dd872f6c2cf8bf1995",
+        "signature": "f3148a63e3f0903da7e429f2c2ef39b4cdfb0e78d2700bcc29891ee561291276",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/results/index.tsx": {
+        "version": "7b0b0fe1451e1c1dc258b60409f09a28d52a020c44365a621180b7a3a9c6df0e",
+        "signature": "4d9a65d7229bf88f6e5550c90796b0bf36a477d4180cb50088b84aa9a4787c8b",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/custom-els/snack-bar/styles.css.d.ts": {
+        "version": "5a2e9152a972c9b89c8d4ea6bf74a1aed6d8dcf3fc36608ee6a2023fed118bcf",
+        "signature": "5a2e9152a972c9b89c8d4ea6bf74a1aed6d8dcf3fc36608ee6a2023fed118bcf",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/custom-els/snack-bar/index.ts": {
+        "version": "c06254e7ec6483d6d6463e7f74612e37de2840348a0273e33f7d29d7624b4fa4",
+        "signature": "c6bde409180876e17e87e280cb814063c6799dd18796f05f62f375ae070c670d",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/util/cli.ts": {
+        "version": "4e449cfcb8e63d4699216d9a641dcae9d2873bd5c43aae655fc78e37e5dcafe2",
+        "signature": "989912f40aaa670bd0abeb76d20b7c7bbac17f55115f856b85ca24e346805033",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/idb-keyval/dist/idb-keyval.d.ts": {
+        "version": "f658b846801c8e5d94e6667aba3780267571b38d94c4ac3671c490fadcecf54d",
+        "signature": "f658b846801c8e5d94e6667aba3780267571b38d94c4ac3671c490fadcecf54d",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/sw-bridge/index.ts": {
+        "version": "203532ed3e33950fb56bc08b067f8f45024a102cd811c41ec7ccd44b14107813",
+        "signature": "ceb1f353b33f5e7d2ea4d63f7c6e6d45d11b546acbda65c3d938f32fe0711458",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/index.tsx": {
+        "version": "315c032a92c2a7115eb4676fe3a96c4626b5853ca4314845d839ff9945a90f12",
+        "signature": "8cdaa8e1144abc9bec9285420cebcffd87dee11837b038e0746a9235d2c9dd2e",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/resize/client/index.tsx": {
+        "version": "1e5772184a31af2a18801153a9edfbf33955088ab68d0bdd649af054dfcf45ee",
+        "signature": "89f6b4cb4dad4da554229b9222089297d420bf99eb0e6c1953b67a1f2e52239e",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/resize/client/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/avif/shared/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/browsergif/shared/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/browserjpeg/shared/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/browserpng/shared/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/mozjpeg/shared/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/preprocessors/rotate/shared/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/quantize/shared/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/resize/shared/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/missing-preact-types.d.ts": {
+        "version": "aaa905801b6ab67e356697e99960d1cf294e3fb7ff924f486ae12add42688f51",
+        "signature": "aaa905801b6ab67e356697e99960d1cf294e3fb7ff924f486ae12add42688f51",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/missing-types.d.ts": {
+        "version": "46b011ddfbefab8b699c4731b9da832447fe113084ffbd9ab00aef6f22fe15eb",
+        "signature": "46b011ddfbefab8b699c4731b9da832447fe113084ffbd9ab00aef6f22fe15eb",
+        "affectsGlobalScope": true
+      },
+      "../../src/shared/custom-els/loading-spinner/missing-types.d.ts": {
+        "version": "b78e3fe6d649ecf3ebc4e9d523c809ab39e127289cc203c9fa71e7eef0087b5a",
+        "signature": "b78e3fe6d649ecf3ebc4e9d523c809ab39e127289cc203c9fa71e7eef0087b5a",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/custom-els/snack-bar/missing-types.d.ts": {
+        "version": "835b69b03767f93432a44d016625206795ce32c6d523835f557745a856d701c6",
+        "signature": "835b69b03767f93432a44d016625206795ce32c6d523835f557745a856d701c6",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/prerendered-app/colors.css.d.ts": {
+        "version": "85bb788f7f94330c7d99e437277932e268801f126da408c13a674b410f67df0d",
+        "signature": "85bb788f7f94330c7d99e437277932e268801f126da408c13a674b410f67df0d",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/prerendered-app/util.css.d.ts": {
+        "version": "85bb788f7f94330c7d99e437277932e268801f126da408c13a674b410f67df0d",
+        "signature": "85bb788f7f94330c7d99e437277932e268801f126da408c13a674b410f67df0d",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/prerendered-app/intro/style.css.d.ts": {
+        "version": "143285898b3fbcac9c7e1aaa0c6509658d15ccb17dd2f1afd9b2b8c0a927e810",
+        "signature": "143285898b3fbcac9c7e1aaa0c6509658d15ccb17dd2f1afd9b2b8c0a927e810",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/prerendered-app/intro/blob-anim/index.ts": {
+        "version": "beef9400dbdb01c1ca659da97923850e176c0175d40f8af7d9c04cf68ddfca79",
+        "signature": "df05f452e35ef264c0e84c1b92f83e9589eb1d459a828f47e4a44327a32fdaa1",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/prerendered-app/intro/blob-anim/meta.ts": {
+        "version": "ac951334b94648ca3d5da83f65b82689757ba0abd0e86e45c400d152fef03a32",
+        "signature": "1a41959103cebd9a95b91cba95dea88cfa25e22fe466ac6ca51d84d9875cf902",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/prerendered-app/intro/slideonscroll/index.tsx": {
+        "version": "71de13fa41fed86e146846884447d5052bdbd52373efcff817a6dc8680e27ad9",
+        "signature": "d8c951ad807a0c1a4ef8e1254d4b07246232d90dafe3c5b657046c956bcde468",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/prerendered-app/intro/index.tsx": {
+        "version": "21e7ce16ad32e02e9483b904a8b71ee910914da80e6ca3f7d4ff1ba12ada8339",
+        "signature": "bd6df46a31e06d472e59513a84c5b8035fd2ab52f0a8a459984afdf17cbeed28",
+        "affectsGlobalScope": false
+      },
+      "../../src/shared/prerendered-app/intro/missing-types.d.ts": {
+        "version": "fd12b634ce02bbfdb090b004eae88d27d1a56017310823d62cb0278f306cda68",
+        "signature": "fd12b634ce02bbfdb090b004eae88d27d1a56017310823d62cb0278f306cda68",
+        "affectsGlobalScope": true
+      },
+      "../../src/client/missing-types.d.ts": {
+        "version": "22a8092fcece58ef98ce73ad9a8ea032a6b4544a1cb5af460c6b3613b90148eb",
+        "signature": "22a8092fcece58ef98ce73ad9a8ea032a6b4544a1cb5af460c6b3613b90148eb",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/file-drop-element/dist/filedrop.d.ts": {
+        "version": "6568b8742ddf7f3607564823ea7359fe211e19554604317734f3d0700194a0cb",
+        "signature": "6568b8742ddf7f3607564823ea7359fe211e19554604317734f3d0700194a0cb",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/initial-app/app/style.css.d.ts": {
+        "version": "6738dd9c08296ec25a43aae4743cd1fafeea2e6c4e7fab4bd3bb992491577e7d",
+        "signature": "6738dd9c08296ec25a43aae4743cd1fafeea2e6c4e7fab4bd3bb992491577e7d",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/initial-app/app/index.tsx": {
+        "version": "122b8f1a6e3a5e42b3b97a00b99973090ca93820e417c14035d13bf80e67b369",
+        "signature": "2d5770c45dc60fa13b5b1592e28c3f2a0b0f08bb083abaeb91aec573bcba79b3",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/initial-app/index.tsx": {
+        "version": "9bafd5f43558fc4eafa90bec0bcdd52f8d1b0ee2301474644e80302dd1653e1b",
+        "signature": "f667f6b1d66ba55f0dcd27f5ff050063fecfe289bad00e8c5d48344a775c1439",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/initial-app/custom-els/missing-types.d.ts": {
+        "version": "b51422c35e4fa5b1d241701fdce0cbeb35f0639b8785232e40b95a787568127b",
+        "signature": "b51422c35e4fa5b1d241701fdce0cbeb35f0639b8785232e40b95a787568127b",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts": {
+        "version": "6be3e8443ced65b9f6dcfcd61b6c8f9dee6dc5c00e02973507595dd368ee6f38",
+        "signature": "6be3e8443ced65b9f6dcfcd61b6c8f9dee6dc5c00e02973507595dd368ee6f38",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts": {
+        "version": "4012abfc23a7fc7fcb05038b84d246725b7cd29010885ef294428417e2528cfe",
+        "signature": "4012abfc23a7fc7fcb05038b84d246725b7cd29010885ef294428417e2528cfe",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/styles.css.d.ts": {
+        "version": "85bb788f7f94330c7d99e437277932e268801f126da408c13a674b410f67df0d",
+        "signature": "85bb788f7f94330c7d99e437277932e268801f126da408c13a674b410f67df0d",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts": {
+        "version": "275af806f15b0fdc2ef168408bed68419503109014222773ed6432846e97d5cf",
+        "signature": "275af806f15b0fdc2ef168408bed68419503109014222773ed6432846e97d5cf",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts": {
+        "version": "a5733117a1f32b585b6771ac16fda869f7ee76199ed99de8912121db6f561e0b",
+        "signature": "a5733117a1f32b585b6771ac16fda869f7ee76199ed99de8912121db6f561e0b",
+        "affectsGlobalScope": false
+      },
+      "../../src/client/lazy-app/util/web-codecs/missing-types.d.ts": {
+        "version": "c5cf35b4b6d80c6e70e9c8395c9600b5ce05819e6f3588bf0ae3e76a2d3445b1",
+        "signature": "c5cf35b4b6d80c6e70e9c8395c9600b5ce05819e6f3588bf0ae3e76a2d3445b1",
+        "affectsGlobalScope": true
+      },
+      "../../src/features/encoders/avif/worker/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/encoders/mozjpeg/worker/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/preprocessors/rotate/worker/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/quantize/worker/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features/processors/resize/worker/missing-types.d.ts": {
+        "version": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "signature": "5dbd3d79f7cf23ad5ac0fe54ba95bda45123acb5748165617b7e8b7c6a577ff6",
+        "affectsGlobalScope": false
+      },
+      "../../src/features-worker/missing-types.d.ts": {
+        "version": "0b11b1d0a091c2f401d103ed950743000a6e8eccd6efd185b891d8e75101ee42",
+        "signature": "0b11b1d0a091c2f401d103ed950743000a6e8eccd6efd185b891d8e75101ee42",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "target": 6,
+      "downlevelIteration": true,
+      "module": 99,
+      "jsx": 2,
+      "jsxFactory": "h",
+      "strict": true,
+      "moduleResolution": 2,
+      "composite": true,
+      "declarationMap": true,
+      "baseUrl": "../..",
+      "rootDir": "../..",
+      "outDir": "./",
+      "allowSyntheticDefaultImports": true,
+      "paths": {
+        "static-build/*": [
+          "src/static-build/*"
+        ],
+        "client/*": [
+          "src/client/*"
+        ],
+        "shared/*": [
+          "src/shared/*"
+        ],
+        "features/*": [
+          "src/features/*"
+        ]
+      },
+      "pathsBasePath": "/Users/dliu01/squoosh",
+      "lib": [
+        "lib.esnext.d.ts",
+        "lib.dom.d.ts",
+        "lib.dom.iterable.d.ts"
+      ],
+      "types": [],
+      "configFilePath": "../../client-tsconfig.json"
+    },
+    "referencedMap": {
+      "../../codecs/avif/enc/avif_enc_mt.d.ts": [
+        "../../codecs/avif/enc/avif_enc.d.ts"
+      ],
+      "../../codecs/jxl/enc/jxl_enc_mt.d.ts": [
+        "../../codecs/jxl/enc/jxl_enc.d.ts"
+      ],
+      "../../codecs/jxl/enc/jxl_enc_mt_simd.d.ts": [
+        "../../codecs/jxl/enc/jxl_enc.d.ts"
+      ],
+      "../../codecs/webp/enc/webp_enc_simd.d.ts": [
+        "../../codecs/webp/enc/webp_enc.d.ts"
+      ],
+      "../../codecs/wp2/enc/wp2_enc_mt.d.ts": [
+        "../../codecs/wp2/enc/wp2_enc.d.ts"
+      ],
+      "../../codecs/wp2/enc/wp2_enc_mt_simd.d.ts": [
+        "../../codecs/wp2/enc/wp2_enc.d.ts"
+      ],
+      "../../missing-types.d.ts": [
+        "../../emscripten-types.d.ts"
+      ],
+      "../../node_modules/comlink/dist/umd/comlink.d.ts": [
+        "../../node_modules/comlink/dist/umd/protocol.d.ts"
+      ],
+      "../../node_modules/preact/src/index.d.ts": [
+        "../../node_modules/preact/src/jsx.d.ts"
+      ],
+      "../../src/client/initial-app/app/index.tsx": [
+        "../../node_modules/file-drop-element/dist/filedrop.d.ts",
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/app/style.css.d.ts",
+        "../../src/client/lazy-app/compress/index.tsx",
+        "../../src/client/lazy-app/sw-bridge/index.ts",
+        "../../src/client/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/index.ts",
+        "../../src/shared/custom-els/snack-bar/index.ts",
+        "../../src/shared/prerendered-app/intro/index.tsx",
+        "../../src/shared/prerendered-app/util.ts"
+      ],
+      "../../src/client/initial-app/custom-els/missing-types.d.ts": [
+        "../../node_modules/file-drop-element/dist/filedrop.d.ts",
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/client/initial-app/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/app/index.tsx",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/custom-els/multipanel/index.ts": [
+        "../../src/client/lazy-app/compress/custom-els/multipanel/styles.css.d.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/index.ts",
+        "../../src/client/lazy-app/compress/options/index.tsx",
+        "../../src/client/lazy-app/compress/output/index.tsx",
+        "../../src/client/lazy-app/compress/result-cache.ts",
+        "../../src/client/lazy-app/compress/results/index.tsx",
+        "../../src/client/lazy-app/compress/style.css.d.ts",
+        "../../src/client/lazy-app/feature-meta/index.ts",
+        "../../src/client/lazy-app/sw-bridge/index.ts",
+        "../../src/client/lazy-app/util/canvas.ts",
+        "../../src/client/lazy-app/util/clean-modify.ts",
+        "../../src/client/lazy-app/util/cli.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/client/missing-types.d.ts",
+        "../../src/features/processors/resize/client/index.tsx",
+        "../../src/shared/custom-els/snack-bar/index.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/checkbox/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/checkbox/style.css.d.ts",
+        "../../src/client/lazy-app/icons/index.tsx",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/expander/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/expander/style.css.d.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/index.tsx",
+        "../../src/client/lazy-app/compress/options/expander/index.tsx",
+        "../../src/client/lazy-app/compress/options/select/index.tsx",
+        "../../src/client/lazy-app/compress/options/style.css.d.ts",
+        "../../src/client/lazy-app/compress/options/toggle/index.tsx",
+        "../../src/client/lazy-app/feature-meta/index.ts",
+        "../../src/client/lazy-app/icons/index.tsx",
+        "../../src/client/lazy-app/util/clean-modify.ts",
+        "../../src/client/missing-types.d.ts",
+        "../../src/features/processors/quantize/client/index.tsx",
+        "../../src/features/processors/resize/client/index.tsx"
+      ],
+      "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/index.ts": [
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/style.css.d.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/range/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/index.ts",
+        "../../src/client/lazy-app/compress/options/range/style.css.d.ts",
+        "../../src/client/missing-types.d.ts",
+        "../../src/shared/prerendered-app/util.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/revealer/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/revealer/style.css.d.ts",
+        "../../src/client/lazy-app/icons/index.tsx",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/select/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/select/style.css.d.ts",
+        "../../src/client/lazy-app/icons/index.tsx",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/toggle/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/toggle/style.css.d.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/index.ts": [
+        "../../node_modules/pointer-tracker/dist/index.d.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/output/custom-els/twoup/index.ts": [
+        "../../node_modules/pointer-tracker/dist/index.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/styles.css.d.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/output/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/index.tsx",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/index.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/index.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/styles.css.d.ts",
+        "../../src/client/lazy-app/compress/output/style.css.d.ts",
+        "../../src/client/lazy-app/feature-meta/index.ts",
+        "../../src/client/lazy-app/icons/index.tsx",
+        "../../src/client/lazy-app/util/canvas.ts",
+        "../../src/client/lazy-app/util/clean-modify.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/missing-types.d.ts",
+        "../../src/shared/prerendered-app/util.ts"
+      ],
+      "../../src/client/lazy-app/compress/result-cache.ts": [
+        "../../src/client/lazy-app/feature-meta/index.ts",
+        "../../src/client/lazy-app/util/index.ts"
+      ],
+      "../../src/client/lazy-app/compress/results/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/index.tsx",
+        "../../src/client/lazy-app/compress/results/pretty-bytes.ts",
+        "../../src/client/lazy-app/compress/results/style.css.d.ts",
+        "../../src/client/lazy-app/icons/index.tsx",
+        "../../src/client/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/index.ts"
+      ],
+      "../../src/client/lazy-app/feature-meta/index.ts": [
+        "../../src/features/encoders/avif/client/index.tsx",
+        "../../src/features/encoders/avif/shared/meta.ts",
+        "../../src/features/encoders/browsergif/client/index.ts",
+        "../../src/features/encoders/browsergif/shared/meta.ts",
+        "../../src/features/encoders/browserjpeg/client/index.ts",
+        "../../src/features/encoders/browserjpeg/shared/meta.ts",
+        "../../src/features/encoders/browserpng/client/index.ts",
+        "../../src/features/encoders/browserpng/shared/meta.ts",
+        "../../src/features/encoders/jxl/client/index.tsx",
+        "../../src/features/encoders/jxl/shared/meta.ts",
+        "../../src/features/encoders/mozjpeg/client/index.tsx",
+        "../../src/features/encoders/mozjpeg/shared/meta.ts",
+        "../../src/features/encoders/oxipng/client/index.tsx",
+        "../../src/features/encoders/oxipng/shared/meta.ts",
+        "../../src/features/encoders/webp/client/index.tsx",
+        "../../src/features/encoders/webp/shared/meta.ts",
+        "../../src/features/encoders/wp2/client/index.tsx",
+        "../../src/features/encoders/wp2/shared/meta.ts",
+        "../../src/features/preprocessors/rotate/shared/meta.ts",
+        "../../src/features/processors/quantize/shared/meta.ts",
+        "../../src/features/processors/resize/shared/meta.ts"
+      ],
+      "../../src/client/lazy-app/icons/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts"
+      ],
+      "../../src/client/lazy-app/sw-bridge/index.ts": [
+        "../../missing-types.d.ts",
+        "../../node_modules/idb-keyval/dist/idb-keyval.d.ts",
+        "../../src/shared/custom-els/snack-bar/index.ts"
+      ],
+      "../../src/client/lazy-app/util/cli.ts": [
+        "../../src/client/lazy-app/feature-meta/index.ts"
+      ],
+      "../../src/client/lazy-app/util/index.ts": [
+        "../../src/client/lazy-app/util/canvas.ts",
+        "../../src/client/lazy-app/util/web-codecs/index.ts"
+      ],
+      "../../src/client/lazy-app/util/web-codecs/index.ts": [
+        "../../src/client/lazy-app/util/canvas.ts"
+      ],
+      "../../src/client/lazy-app/worker-bridge/index.ts": [
+        "../../missing-types.d.ts",
+        "../../node_modules/comlink/dist/umd/comlink.d.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/lazy-app/worker-bridge/meta.ts",
+        "../../src/features-worker/index.ts"
+      ],
+      "../../src/client/lazy-app/worker-bridge/meta.ts": [
+        "../../src/features/decoders/avif/worker/avifdecode.ts",
+        "../../src/features/decoders/jxl/worker/jxldecode.ts",
+        "../../src/features/decoders/webp/worker/webpdecode.ts",
+        "../../src/features/decoders/wp2/worker/wp2decode.ts",
+        "../../src/features/encoders/avif/worker/avifencode.ts",
+        "../../src/features/encoders/jxl/worker/jxlencode.ts",
+        "../../src/features/encoders/mozjpeg/worker/mozjpegencode.ts",
+        "../../src/features/encoders/oxipng/worker/oxipngencode.ts",
+        "../../src/features/encoders/webp/worker/webpencode.ts",
+        "../../src/features/encoders/wp2/worker/wp2encode.ts",
+        "../../src/features/preprocessors/rotate/worker/rotate.ts",
+        "../../src/features/processors/quantize/worker/quantize.ts",
+        "../../src/features/processors/resize/worker/resize.ts"
+      ],
+      "../../src/client/missing-types.d.ts": [
+        "../../missing-types.d.ts",
+        "../../src/shared/prerendered-app/intro/missing-types.d.ts"
+      ],
+      "../../src/features-worker/index.ts": [
+        "../../node_modules/comlink/dist/umd/comlink.d.ts",
+        "../../src/features-worker/util.ts",
+        "../../src/features/decoders/avif/worker/avifdecode.ts",
+        "../../src/features/decoders/jxl/worker/jxldecode.ts",
+        "../../src/features/decoders/webp/worker/webpdecode.ts",
+        "../../src/features/decoders/wp2/worker/wp2decode.ts",
+        "../../src/features/encoders/avif/worker/avifencode.ts",
+        "../../src/features/encoders/jxl/worker/jxlencode.ts",
+        "../../src/features/encoders/mozjpeg/worker/mozjpegencode.ts",
+        "../../src/features/encoders/oxipng/worker/oxipngencode.ts",
+        "../../src/features/encoders/webp/worker/webpencode.ts",
+        "../../src/features/encoders/wp2/worker/wp2encode.ts",
+        "../../src/features/preprocessors/rotate/worker/rotate.ts",
+        "../../src/features/processors/quantize/worker/quantize.ts",
+        "../../src/features/processors/resize/worker/resize.ts"
+      ],
+      "../../src/features-worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/client-utils/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/range/index.tsx",
+        "../../src/client/lazy-app/compress/options/style.css.d.ts"
+      ],
+      "../../src/features/decoders/avif/worker/avifdecode.ts": [
+        "../../codecs/avif/dec/avif_dec.d.ts",
+        "../../src/features/worker-utils/index.ts"
+      ],
+      "../../src/features/decoders/jxl/worker/jxldecode.ts": [
+        "../../codecs/jxl/dec/jxl_dec.d.ts",
+        "../../src/features/worker-utils/index.ts"
+      ],
+      "../../src/features/decoders/webp/worker/webpdecode.ts": [
+        "../../codecs/webp/dec/webp_dec.d.ts",
+        "../../src/features/worker-utils/index.ts"
+      ],
+      "../../src/features/decoders/wp2/worker/wp2decode.ts": [
+        "../../codecs/wp2/dec/wp2_dec.d.ts",
+        "../../src/features/worker-utils/index.ts"
+      ],
+      "../../src/features/encoders/avif/client/index.tsx": [
+        "../../node_modules/linkstate/src/index.d.ts",
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/checkbox/index.tsx",
+        "../../src/client/lazy-app/compress/options/expander/index.tsx",
+        "../../src/client/lazy-app/compress/options/range/index.tsx",
+        "../../src/client/lazy-app/compress/options/revealer/index.tsx",
+        "../../src/client/lazy-app/compress/options/select/index.tsx",
+        "../../src/client/lazy-app/compress/options/style.css.d.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/avif/shared/meta.ts"
+      ],
+      "../../src/features/encoders/avif/shared/meta.ts": [
+        "../../codecs/avif/enc/avif_enc.d.ts"
+      ],
+      "../../src/features/encoders/avif/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/avif/worker/avifencode.ts": [
+        "../../codecs/avif/enc/avif_enc.d.ts",
+        "../../codecs/avif/enc/avif_enc_mt.d.ts",
+        "../../node_modules/wasm-feature-detect/dist/index.d.ts",
+        "../../src/features/encoders/avif/shared/meta.ts",
+        "../../src/features/worker-utils/index.ts"
+      ],
+      "../../src/features/encoders/avif/worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browsergif/client/index.ts": [
+        "../../src/client/lazy-app/util/canvas.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/browsergif/shared/meta.ts"
+      ],
+      "../../src/features/encoders/browsergif/client/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browsergif/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browserjpeg/client/index.ts": [
+        "../../src/client/lazy-app/util/canvas.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/client-utils/index.tsx",
+        "../../src/features/encoders/browserjpeg/shared/meta.ts"
+      ],
+      "../../src/features/encoders/browserjpeg/client/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browserjpeg/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browserpng/client/index.ts": [
+        "../../src/client/lazy-app/util/canvas.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/browserpng/shared/meta.ts"
+      ],
+      "../../src/features/encoders/browserpng/client/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browserpng/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/jxl/client/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/checkbox/index.tsx",
+        "../../src/client/lazy-app/compress/options/expander/index.tsx",
+        "../../src/client/lazy-app/compress/options/range/index.tsx",
+        "../../src/client/lazy-app/compress/options/style.css.d.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/jxl/shared/meta.ts"
+      ],
+      "../../src/features/encoders/jxl/shared/meta.ts": [
+        "../../codecs/jxl/enc/jxl_enc.d.ts"
+      ],
+      "../../src/features/encoders/jxl/worker/jxlencode.ts": [
+        "../../codecs/jxl/enc/jxl_enc.d.ts",
+        "../../codecs/jxl/enc/jxl_enc_mt.d.ts",
+        "../../codecs/jxl/enc/jxl_enc_mt_simd.d.ts",
+        "../../node_modules/wasm-feature-detect/dist/index.d.ts",
+        "../../src/features/encoders/jxl/shared/meta.ts",
+        "../../src/features/worker-utils/index.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/client/index.tsx": [
+        "../../node_modules/linkstate/src/index.d.ts",
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/checkbox/index.tsx",
+        "../../src/client/lazy-app/compress/options/expander/index.tsx",
+        "../../src/client/lazy-app/compress/options/range/index.tsx",
+        "../../src/client/lazy-app/compress/options/revealer/index.tsx",
+        "../../src/client/lazy-app/compress/options/select/index.tsx",
+        "../../src/client/lazy-app/compress/options/style.css.d.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/mozjpeg/shared/meta.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/client/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/shared/meta.ts": [
+        "../../codecs/mozjpeg/enc/mozjpeg_enc.d.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/worker/mozjpegencode.ts": [
+        "../../codecs/mozjpeg/enc/mozjpeg_enc.d.ts",
+        "../../src/features/encoders/mozjpeg/shared/meta.ts",
+        "../../src/features/worker-utils/index.ts"
+      ],
+      "../../src/features/encoders/oxipng/client/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/checkbox/index.tsx",
+        "../../src/client/lazy-app/compress/options/range/index.tsx",
+        "../../src/client/lazy-app/compress/options/style.css.d.ts",
+        "../../src/client/lazy-app/util/canvas.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/oxipng/shared/meta.ts"
+      ],
+      "../../src/features/encoders/oxipng/worker/oxipngencode.ts": [
+        "../../codecs/oxipng/pkg-parallel/squoosh_oxipng.d.ts",
+        "../../codecs/oxipng/pkg/squoosh_oxipng.d.ts",
+        "../../node_modules/wasm-feature-detect/dist/index.d.ts",
+        "../../src/features/encoders/oxipng/shared/meta.ts"
+      ],
+      "../../src/features/encoders/webp/client/index.tsx": [
+        "../../node_modules/linkstate/src/index.d.ts",
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/checkbox/index.tsx",
+        "../../src/client/lazy-app/compress/options/expander/index.tsx",
+        "../../src/client/lazy-app/compress/options/range/index.tsx",
+        "../../src/client/lazy-app/compress/options/revealer/index.tsx",
+        "../../src/client/lazy-app/compress/options/select/index.tsx",
+        "../../src/client/lazy-app/compress/options/style.css.d.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/webp/shared/meta.ts"
+      ],
+      "../../src/features/encoders/webp/shared/meta.ts": [
+        "../../codecs/webp/enc/webp_enc.d.ts"
+      ],
+      "../../src/features/encoders/webp/worker/webpencode.ts": [
+        "../../codecs/webp/enc/webp_enc.d.ts",
+        "../../codecs/webp/enc/webp_enc_simd.d.ts",
+        "../../node_modules/wasm-feature-detect/dist/index.d.ts",
+        "../../src/features/encoders/webp/shared/meta.ts",
+        "../../src/features/worker-utils/index.ts"
+      ],
+      "../../src/features/encoders/wp2/client/index.tsx": [
+        "../../node_modules/linkstate/src/index.d.ts",
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/checkbox/index.tsx",
+        "../../src/client/lazy-app/compress/options/expander/index.tsx",
+        "../../src/client/lazy-app/compress/options/range/index.tsx",
+        "../../src/client/lazy-app/compress/options/revealer/index.tsx",
+        "../../src/client/lazy-app/compress/options/select/index.tsx",
+        "../../src/client/lazy-app/compress/options/style.css.d.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/wp2/shared/meta.ts"
+      ],
+      "../../src/features/encoders/wp2/shared/meta.ts": [
+        "../../codecs/wp2/enc/wp2_enc.d.ts"
+      ],
+      "../../src/features/encoders/wp2/worker/wp2encode.ts": [
+        "../../codecs/wp2/enc/wp2_enc.d.ts",
+        "../../codecs/wp2/enc/wp2_enc_mt.d.ts",
+        "../../codecs/wp2/enc/wp2_enc_mt_simd.d.ts",
+        "../../node_modules/wasm-feature-detect/dist/index.d.ts",
+        "../../src/features/encoders/wp2/shared/meta.ts",
+        "../../src/features/worker-utils/index.ts"
+      ],
+      "../../src/features/preprocessors/rotate/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/preprocessors/rotate/worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/preprocessors/rotate/worker/rotate.ts": [
+        "../../missing-types.d.ts",
+        "../../src/features/preprocessors/rotate/shared/meta.ts"
+      ],
+      "../../src/features/processors/quantize/client/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/expander/index.tsx",
+        "../../src/client/lazy-app/compress/options/range/index.tsx",
+        "../../src/client/lazy-app/compress/options/select/index.tsx",
+        "../../src/client/lazy-app/compress/options/style.css.d.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/features/processors/quantize/shared/meta.ts"
+      ],
+      "../../src/features/processors/quantize/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/processors/quantize/worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/processors/quantize/worker/quantize.ts": [
+        "../../codecs/imagequant/imagequant.d.ts",
+        "../../src/features/processors/quantize/shared/meta.ts",
+        "../../src/features/worker-utils/index.ts"
+      ],
+      "../../src/features/processors/resize/client/index.tsx": [
+        "../../node_modules/linkstate/src/index.d.ts",
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/index.tsx",
+        "../../src/client/lazy-app/compress/options/checkbox/index.tsx",
+        "../../src/client/lazy-app/compress/options/expander/index.tsx",
+        "../../src/client/lazy-app/compress/options/select/index.tsx",
+        "../../src/client/lazy-app/compress/options/style.css.d.ts",
+        "../../src/client/lazy-app/util/canvas.ts",
+        "../../src/client/lazy-app/util/index.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/processors/resize/shared/meta.ts",
+        "../../src/features/processors/resize/shared/util.ts",
+        "../../src/shared/prerendered-app/util.ts"
+      ],
+      "../../src/features/processors/resize/client/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/processors/resize/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/processors/resize/worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/processors/resize/worker/resize.ts": [
+        "../../codecs/hqx/pkg/squooshhqx.d.ts",
+        "../../codecs/resize/pkg/squoosh_resize.d.ts",
+        "../../src/features/processors/resize/shared/meta.ts",
+        "../../src/features/processors/resize/shared/util.ts"
+      ],
+      "../../src/shared/custom-els/loading-spinner/index.ts": [
+        "../../src/client/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/styles.css.d.ts"
+      ],
+      "../../src/shared/custom-els/loading-spinner/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/shared/custom-els/snack-bar/index.ts": [
+        "../../src/client/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/styles.css.d.ts"
+      ],
+      "../../src/shared/custom-els/snack-bar/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/index.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/shared/missing-preact-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts"
+      ],
+      "../../src/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/shared/prerendered-app/intro/blob-anim/index.ts": [
+        "../../src/shared/prerendered-app/intro/blob-anim/meta.ts",
+        "../../src/shared/prerendered-app/intro/style.css.d.ts"
+      ],
+      "../../src/shared/prerendered-app/intro/blob-anim/meta.ts": [
+        "../../src/shared/prerendered-app/intro/blob-anim/index.ts"
+      ],
+      "../../src/shared/prerendered-app/intro/index.tsx": [
+        "../../missing-types.d.ts",
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/shared/custom-els/loading-spinner/index.ts",
+        "../../src/shared/custom-els/snack-bar/index.ts",
+        "../../src/shared/prerendered-app/intro/blob-anim/index.ts",
+        "../../src/shared/prerendered-app/intro/blob-anim/meta.ts",
+        "../../src/shared/prerendered-app/intro/slideonscroll/index.tsx",
+        "../../src/shared/prerendered-app/intro/style.css.d.ts",
+        "../../src/shared/prerendered-app/util.ts"
+      ],
+      "../../src/shared/prerendered-app/intro/slideonscroll/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../../codecs/avif/enc/avif_enc_mt.d.ts": [
+        "../../codecs/avif/enc/avif_enc.d.ts"
+      ],
+      "../../codecs/jxl/enc/jxl_enc_mt.d.ts": [
+        "../../codecs/jxl/enc/jxl_enc.d.ts"
+      ],
+      "../../codecs/jxl/enc/jxl_enc_mt_simd.d.ts": [
+        "../../codecs/jxl/enc/jxl_enc.d.ts"
+      ],
+      "../../codecs/webp/enc/webp_enc_simd.d.ts": [
+        "../../codecs/webp/enc/webp_enc.d.ts"
+      ],
+      "../../codecs/wp2/enc/wp2_enc_mt.d.ts": [
+        "../../codecs/wp2/enc/wp2_enc.d.ts"
+      ],
+      "../../codecs/wp2/enc/wp2_enc_mt_simd.d.ts": [
+        "../../codecs/wp2/enc/wp2_enc.d.ts"
+      ],
+      "../../missing-types.d.ts": [
+        "../../emscripten-types.d.ts"
+      ],
+      "../../node_modules/comlink/dist/umd/comlink.d.ts": [
+        "../../node_modules/comlink/dist/umd/protocol.d.ts"
+      ],
+      "../../node_modules/preact/src/index.d.ts": [
+        "../../node_modules/preact/src/jsx.d.ts"
+      ],
+      "../../src/client/initial-app/app/index.tsx": [
+        "../../node_modules/file-drop-element/dist/filedrop.d.ts",
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/index.tsx",
+        "../../src/client/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/index.ts",
+        "../../src/shared/custom-els/snack-bar/index.ts"
+      ],
+      "../../src/client/initial-app/custom-els/missing-types.d.ts": [
+        "../../node_modules/file-drop-element/dist/filedrop.d.ts",
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/custom-els/multipanel/index.ts": [
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/index.ts",
+        "../../src/client/lazy-app/feature-meta/index.ts",
+        "../../src/client/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/index.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/checkbox/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/expander/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/index.tsx",
+        "../../src/client/lazy-app/feature-meta/index.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/index.ts": [
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/range/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/index.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/revealer/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/select/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/options/toggle/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/index.ts": [
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/output/custom-els/twoup/index.ts": [
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/output/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/index.tsx",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/index.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/index.ts",
+        "../../src/client/lazy-app/feature-meta/index.ts",
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/client/lazy-app/compress/result-cache.ts": [
+        "../../src/client/lazy-app/feature-meta/index.ts"
+      ],
+      "../../src/client/lazy-app/compress/results/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/index.tsx",
+        "../../src/client/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/index.ts"
+      ],
+      "../../src/client/lazy-app/feature-meta/index.ts": [
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/client-utils/index.tsx",
+        "../../src/features/encoders/avif/client/index.tsx",
+        "../../src/features/encoders/avif/shared/meta.ts",
+        "../../src/features/encoders/browsergif/shared/meta.ts",
+        "../../src/features/encoders/browserjpeg/shared/meta.ts",
+        "../../src/features/encoders/browserpng/shared/meta.ts",
+        "../../src/features/encoders/jxl/client/index.tsx",
+        "../../src/features/encoders/jxl/shared/meta.ts",
+        "../../src/features/encoders/mozjpeg/client/index.tsx",
+        "../../src/features/encoders/mozjpeg/shared/meta.ts",
+        "../../src/features/encoders/oxipng/client/index.tsx",
+        "../../src/features/encoders/oxipng/shared/meta.ts",
+        "../../src/features/encoders/webp/client/index.tsx",
+        "../../src/features/encoders/webp/shared/meta.ts",
+        "../../src/features/encoders/wp2/client/index.tsx",
+        "../../src/features/encoders/wp2/shared/meta.ts",
+        "../../src/features/preprocessors/rotate/shared/meta.ts",
+        "../../src/features/processors/quantize/shared/meta.ts",
+        "../../src/features/processors/resize/shared/meta.ts"
+      ],
+      "../../src/client/lazy-app/icons/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts"
+      ],
+      "../../src/client/lazy-app/sw-bridge/index.ts": [
+        "../../src/shared/custom-els/snack-bar/index.ts"
+      ],
+      "../../src/client/lazy-app/util/cli.ts": [
+        "../../src/client/lazy-app/feature-meta/index.ts"
+      ],
+      "../../src/client/lazy-app/worker-bridge/index.ts": [
+        "../../src/client/lazy-app/worker-bridge/meta.ts",
+        "../../src/features-worker/index.ts"
+      ],
+      "../../src/client/lazy-app/worker-bridge/meta.ts": [
+        "../../src/features/decoders/avif/worker/avifdecode.ts",
+        "../../src/features/decoders/jxl/worker/jxldecode.ts",
+        "../../src/features/decoders/webp/worker/webpdecode.ts",
+        "../../src/features/decoders/wp2/worker/wp2decode.ts",
+        "../../src/features/encoders/avif/worker/avifencode.ts",
+        "../../src/features/encoders/jxl/worker/jxlencode.ts",
+        "../../src/features/encoders/mozjpeg/worker/mozjpegencode.ts",
+        "../../src/features/encoders/oxipng/worker/oxipngencode.ts",
+        "../../src/features/encoders/webp/worker/webpencode.ts",
+        "../../src/features/encoders/wp2/worker/wp2encode.ts",
+        "../../src/features/preprocessors/rotate/worker/rotate.ts",
+        "../../src/features/processors/quantize/worker/quantize.ts",
+        "../../src/features/processors/resize/worker/resize.ts"
+      ],
+      "../../src/client/missing-types.d.ts": [
+        "../../missing-types.d.ts",
+        "../../src/shared/prerendered-app/intro/missing-types.d.ts"
+      ],
+      "../../src/features-worker/index.ts": [
+        "../../codecs/avif/enc/avif_enc.d.ts",
+        "../../codecs/jxl/enc/jxl_enc.d.ts",
+        "../../codecs/mozjpeg/enc/mozjpeg_enc.d.ts",
+        "../../codecs/webp/enc/webp_enc.d.ts",
+        "../../codecs/wp2/enc/wp2_enc.d.ts",
+        "../../src/features/decoders/avif/worker/avifdecode.ts",
+        "../../src/features/decoders/jxl/worker/jxldecode.ts",
+        "../../src/features/decoders/webp/worker/webpdecode.ts",
+        "../../src/features/decoders/wp2/worker/wp2decode.ts",
+        "../../src/features/encoders/avif/worker/avifencode.ts",
+        "../../src/features/encoders/jxl/worker/jxlencode.ts",
+        "../../src/features/encoders/mozjpeg/worker/mozjpegencode.ts",
+        "../../src/features/encoders/oxipng/shared/meta.ts",
+        "../../src/features/encoders/oxipng/worker/oxipngencode.ts",
+        "../../src/features/encoders/webp/worker/webpencode.ts",
+        "../../src/features/encoders/wp2/worker/wp2encode.ts",
+        "../../src/features/preprocessors/rotate/shared/meta.ts",
+        "../../src/features/preprocessors/rotate/worker/rotate.ts",
+        "../../src/features/processors/quantize/shared/meta.ts",
+        "../../src/features/processors/quantize/worker/quantize.ts",
+        "../../src/features/processors/resize/shared/meta.ts",
+        "../../src/features/processors/resize/worker/resize.ts"
+      ],
+      "../../src/features-worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/client-utils/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts"
+      ],
+      "../../src/features/encoders/avif/client/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/avif/shared/meta.ts"
+      ],
+      "../../src/features/encoders/avif/shared/meta.ts": [
+        "../../codecs/avif/enc/avif_enc.d.ts"
+      ],
+      "../../src/features/encoders/avif/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/avif/worker/avifencode.ts": [
+        "../../src/features/encoders/avif/shared/meta.ts"
+      ],
+      "../../src/features/encoders/avif/worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browsergif/client/index.ts": [
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/browsergif/shared/meta.ts"
+      ],
+      "../../src/features/encoders/browsergif/client/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browsergif/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browserjpeg/client/index.ts": [
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/client-utils/index.tsx",
+        "../../src/features/encoders/browserjpeg/shared/meta.ts"
+      ],
+      "../../src/features/encoders/browserjpeg/client/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browserjpeg/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browserpng/client/index.ts": [
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/browserpng/shared/meta.ts"
+      ],
+      "../../src/features/encoders/browserpng/client/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/browserpng/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/jxl/client/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/jxl/shared/meta.ts"
+      ],
+      "../../src/features/encoders/jxl/shared/meta.ts": [
+        "../../codecs/jxl/enc/jxl_enc.d.ts"
+      ],
+      "../../src/features/encoders/jxl/worker/jxlencode.ts": [
+        "../../src/features/encoders/jxl/shared/meta.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/client/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/mozjpeg/shared/meta.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/client/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/shared/meta.ts": [
+        "../../codecs/mozjpeg/enc/mozjpeg_enc.d.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/encoders/mozjpeg/worker/mozjpegencode.ts": [
+        "../../src/features/encoders/mozjpeg/shared/meta.ts"
+      ],
+      "../../src/features/encoders/oxipng/client/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/oxipng/shared/meta.ts"
+      ],
+      "../../src/features/encoders/oxipng/worker/oxipngencode.ts": [
+        "../../src/features/encoders/oxipng/shared/meta.ts"
+      ],
+      "../../src/features/encoders/webp/client/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/webp/shared/meta.ts"
+      ],
+      "../../src/features/encoders/webp/shared/meta.ts": [
+        "../../codecs/webp/enc/webp_enc.d.ts"
+      ],
+      "../../src/features/encoders/webp/worker/webpencode.ts": [
+        "../../src/features/encoders/webp/shared/meta.ts"
+      ],
+      "../../src/features/encoders/wp2/client/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/encoders/wp2/shared/meta.ts"
+      ],
+      "../../src/features/encoders/wp2/shared/meta.ts": [
+        "../../codecs/wp2/enc/wp2_enc.d.ts"
+      ],
+      "../../src/features/encoders/wp2/worker/wp2encode.ts": [
+        "../../src/features/encoders/wp2/shared/meta.ts"
+      ],
+      "../../src/features/preprocessors/rotate/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/preprocessors/rotate/worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/preprocessors/rotate/worker/rotate.ts": [
+        "../../src/features/preprocessors/rotate/shared/meta.ts"
+      ],
+      "../../src/features/processors/quantize/client/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/features/processors/quantize/shared/meta.ts"
+      ],
+      "../../src/features/processors/quantize/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/processors/quantize/worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/processors/quantize/worker/quantize.ts": [
+        "../../src/features/processors/quantize/shared/meta.ts"
+      ],
+      "../../src/features/processors/resize/client/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/lazy-app/compress/index.tsx",
+        "../../src/client/lazy-app/worker-bridge/index.ts",
+        "../../src/features/processors/resize/shared/meta.ts"
+      ],
+      "../../src/features/processors/resize/client/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/processors/resize/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/processors/resize/worker/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/features/processors/resize/worker/resize.ts": [
+        "../../src/features/processors/resize/shared/meta.ts"
+      ],
+      "../../src/shared/custom-els/loading-spinner/index.ts": [
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/shared/custom-els/loading-spinner/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/shared/custom-els/snack-bar/index.ts": [
+        "../../src/client/missing-types.d.ts"
+      ],
+      "../../src/shared/custom-els/snack-bar/missing-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/index.ts",
+        "../../src/shared/missing-preact-types.d.ts"
+      ],
+      "../../src/shared/missing-preact-types.d.ts": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/client/initial-app/custom-els/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+        "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+        "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+        "../../src/shared/custom-els/snack-bar/missing-types.d.ts"
+      ],
+      "../../src/shared/missing-types.d.ts": [
+        "../../missing-types.d.ts"
+      ],
+      "../../src/shared/prerendered-app/intro/blob-anim/meta.ts": [
+        "../../src/shared/prerendered-app/intro/blob-anim/index.ts"
+      ],
+      "../../src/shared/prerendered-app/intro/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts",
+        "../../src/shared/custom-els/loading-spinner/index.ts",
+        "../../src/shared/custom-els/snack-bar/index.ts"
+      ],
+      "../../src/shared/prerendered-app/intro/slideonscroll/index.tsx": [
+        "../../node_modules/preact/src/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../codecs/avif/dec/avif_dec.d.ts",
+      "../../codecs/avif/enc/avif_enc.d.ts",
+      "../../codecs/avif/enc/avif_enc_mt.d.ts",
+      "../../codecs/hqx/pkg/squooshhqx.d.ts",
+      "../../codecs/imagequant/imagequant.d.ts",
+      "../../codecs/jxl/dec/jxl_dec.d.ts",
+      "../../codecs/jxl/enc/jxl_enc.d.ts",
+      "../../codecs/jxl/enc/jxl_enc_mt.d.ts",
+      "../../codecs/jxl/enc/jxl_enc_mt_simd.d.ts",
+      "../../codecs/mozjpeg/enc/mozjpeg_enc.d.ts",
+      "../../codecs/oxipng/pkg-parallel/squoosh_oxipng.d.ts",
+      "../../codecs/oxipng/pkg/squoosh_oxipng.d.ts",
+      "../../codecs/resize/pkg/squoosh_resize.d.ts",
+      "../../codecs/webp/dec/webp_dec.d.ts",
+      "../../codecs/webp/enc/webp_enc.d.ts",
+      "../../codecs/webp/enc/webp_enc_simd.d.ts",
+      "../../codecs/wp2/dec/wp2_dec.d.ts",
+      "../../codecs/wp2/enc/wp2_enc.d.ts",
+      "../../codecs/wp2/enc/wp2_enc_mt.d.ts",
+      "../../codecs/wp2/enc/wp2_enc_mt_simd.d.ts",
+      "../../emscripten-types.d.ts",
+      "../../missing-types.d.ts",
+      "../../node_modules/comlink/dist/umd/comlink.d.ts",
+      "../../node_modules/comlink/dist/umd/protocol.d.ts",
+      "../../node_modules/file-drop-element/dist/filedrop.d.ts",
+      "../../node_modules/idb-keyval/dist/idb-keyval.d.ts",
+      "../../node_modules/linkstate/src/index.d.ts",
+      "../../node_modules/pointer-tracker/dist/index.d.ts",
+      "../../node_modules/preact/src/index.d.ts",
+      "../../node_modules/preact/src/jsx.d.ts",
+      "../../node_modules/typescript/lib/lib.dom.d.ts",
+      "../../node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../../node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../../node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../../node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "../../node_modules/typescript/lib/lib.es2019.d.ts",
+      "../../node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "../../node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "../../node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "../../node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../../node_modules/typescript/lib/lib.es2020.d.ts",
+      "../../node_modules/typescript/lib/lib.es2020.intl.d.ts",
+      "../../node_modules/typescript/lib/lib.es2020.promise.d.ts",
+      "../../node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts",
+      "../../node_modules/typescript/lib/lib.es2020.string.d.ts",
+      "../../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
+      "../../node_modules/typescript/lib/lib.es5.d.ts",
+      "../../node_modules/typescript/lib/lib.esnext.d.ts",
+      "../../node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "../../node_modules/typescript/lib/lib.esnext.promise.d.ts",
+      "../../node_modules/typescript/lib/lib.esnext.string.d.ts",
+      "../../node_modules/typescript/lib/lib.esnext.weakref.d.ts",
+      "../../node_modules/wasm-feature-detect/dist/index.d.ts",
+      "../../src/client/initial-app/app/index.tsx",
+      "../../src/client/initial-app/app/style.css.d.ts",
+      "../../src/client/initial-app/custom-els/missing-types.d.ts",
+      "../../src/client/initial-app/index.tsx",
+      "../../src/client/lazy-app/compress/custom-els/multipanel/index.ts",
+      "../../src/client/lazy-app/compress/custom-els/multipanel/missing-types.d.ts",
+      "../../src/client/lazy-app/compress/custom-els/multipanel/styles.css.d.ts",
+      "../../src/client/lazy-app/compress/index.tsx",
+      "../../src/client/lazy-app/compress/options/checkbox/index.tsx",
+      "../../src/client/lazy-app/compress/options/checkbox/style.css.d.ts",
+      "../../src/client/lazy-app/compress/options/expander/index.tsx",
+      "../../src/client/lazy-app/compress/options/expander/style.css.d.ts",
+      "../../src/client/lazy-app/compress/options/index.tsx",
+      "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/index.ts",
+      "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/missing-types.d.ts",
+      "../../src/client/lazy-app/compress/options/range/custom-els/rangeinput/style.css.d.ts",
+      "../../src/client/lazy-app/compress/options/range/index.tsx",
+      "../../src/client/lazy-app/compress/options/range/style.css.d.ts",
+      "../../src/client/lazy-app/compress/options/revealer/index.tsx",
+      "../../src/client/lazy-app/compress/options/revealer/style.css.d.ts",
+      "../../src/client/lazy-app/compress/options/select/index.tsx",
+      "../../src/client/lazy-app/compress/options/select/style.css.d.ts",
+      "../../src/client/lazy-app/compress/options/style.css.d.ts",
+      "../../src/client/lazy-app/compress/options/toggle/index.tsx",
+      "../../src/client/lazy-app/compress/options/toggle/style.css.d.ts",
+      "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/index.ts",
+      "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/missing-types.d.ts",
+      "../../src/client/lazy-app/compress/output/custom-els/pinchzoom/styles.css.d.ts",
+      "../../src/client/lazy-app/compress/output/custom-els/twoup/index.ts",
+      "../../src/client/lazy-app/compress/output/custom-els/twoup/missing-types.d.ts",
+      "../../src/client/lazy-app/compress/output/custom-els/twoup/styles.css.d.ts",
+      "../../src/client/lazy-app/compress/output/index.tsx",
+      "../../src/client/lazy-app/compress/output/style.css.d.ts",
+      "../../src/client/lazy-app/compress/result-cache.ts",
+      "../../src/client/lazy-app/compress/results/index.tsx",
+      "../../src/client/lazy-app/compress/results/pretty-bytes.ts",
+      "../../src/client/lazy-app/compress/results/style.css.d.ts",
+      "../../src/client/lazy-app/compress/style.css.d.ts",
+      "../../src/client/lazy-app/feature-meta/index.ts",
+      "../../src/client/lazy-app/icons/index.tsx",
+      "../../src/client/lazy-app/sw-bridge/index.ts",
+      "../../src/client/lazy-app/util/canvas.ts",
+      "../../src/client/lazy-app/util/clean-modify.ts",
+      "../../src/client/lazy-app/util/cli.ts",
+      "../../src/client/lazy-app/util/index.ts",
+      "../../src/client/lazy-app/util/web-codecs/index.ts",
+      "../../src/client/lazy-app/util/web-codecs/missing-types.d.ts",
+      "../../src/client/lazy-app/worker-bridge/index.ts",
+      "../../src/client/lazy-app/worker-bridge/meta.ts",
+      "../../src/client/missing-types.d.ts",
+      "../../src/features-worker/index.ts",
+      "../../src/features-worker/missing-types.d.ts",
+      "../../src/features-worker/util.ts",
+      "../../src/features/client-utils/index.tsx",
+      "../../src/features/decoders/avif/worker/avifdecode.ts",
+      "../../src/features/decoders/jxl/worker/jxldecode.ts",
+      "../../src/features/decoders/webp/worker/webpdecode.ts",
+      "../../src/features/decoders/wp2/worker/wp2decode.ts",
+      "../../src/features/encoders/avif/client/index.tsx",
+      "../../src/features/encoders/avif/shared/meta.ts",
+      "../../src/features/encoders/avif/shared/missing-types.d.ts",
+      "../../src/features/encoders/avif/worker/avifencode.ts",
+      "../../src/features/encoders/avif/worker/missing-types.d.ts",
+      "../../src/features/encoders/browsergif/client/index.ts",
+      "../../src/features/encoders/browsergif/client/missing-types.d.ts",
+      "../../src/features/encoders/browsergif/shared/meta.ts",
+      "../../src/features/encoders/browsergif/shared/missing-types.d.ts",
+      "../../src/features/encoders/browserjpeg/client/index.ts",
+      "../../src/features/encoders/browserjpeg/client/missing-types.d.ts",
+      "../../src/features/encoders/browserjpeg/shared/meta.ts",
+      "../../src/features/encoders/browserjpeg/shared/missing-types.d.ts",
+      "../../src/features/encoders/browserpng/client/index.ts",
+      "../../src/features/encoders/browserpng/client/missing-types.d.ts",
+      "../../src/features/encoders/browserpng/shared/meta.ts",
+      "../../src/features/encoders/browserpng/shared/missing-types.d.ts",
+      "../../src/features/encoders/jxl/client/index.tsx",
+      "../../src/features/encoders/jxl/shared/meta.ts",
+      "../../src/features/encoders/jxl/worker/jxlencode.ts",
+      "../../src/features/encoders/mozjpeg/client/index.tsx",
+      "../../src/features/encoders/mozjpeg/client/missing-types.d.ts",
+      "../../src/features/encoders/mozjpeg/shared/meta.ts",
+      "../../src/features/encoders/mozjpeg/shared/missing-types.d.ts",
+      "../../src/features/encoders/mozjpeg/worker/missing-types.d.ts",
+      "../../src/features/encoders/mozjpeg/worker/mozjpegencode.ts",
+      "../../src/features/encoders/oxipng/client/index.tsx",
+      "../../src/features/encoders/oxipng/shared/meta.ts",
+      "../../src/features/encoders/oxipng/worker/oxipngencode.ts",
+      "../../src/features/encoders/webp/client/index.tsx",
+      "../../src/features/encoders/webp/shared/meta.ts",
+      "../../src/features/encoders/webp/worker/webpencode.ts",
+      "../../src/features/encoders/wp2/client/index.tsx",
+      "../../src/features/encoders/wp2/shared/meta.ts",
+      "../../src/features/encoders/wp2/worker/wp2encode.ts",
+      "../../src/features/preprocessors/rotate/shared/meta.ts",
+      "../../src/features/preprocessors/rotate/shared/missing-types.d.ts",
+      "../../src/features/preprocessors/rotate/worker/missing-types.d.ts",
+      "../../src/features/preprocessors/rotate/worker/rotate.ts",
+      "../../src/features/processors/quantize/client/index.tsx",
+      "../../src/features/processors/quantize/shared/meta.ts",
+      "../../src/features/processors/quantize/shared/missing-types.d.ts",
+      "../../src/features/processors/quantize/worker/missing-types.d.ts",
+      "../../src/features/processors/quantize/worker/quantize.ts",
+      "../../src/features/processors/resize/client/index.tsx",
+      "../../src/features/processors/resize/client/missing-types.d.ts",
+      "../../src/features/processors/resize/shared/meta.ts",
+      "../../src/features/processors/resize/shared/missing-types.d.ts",
+      "../../src/features/processors/resize/shared/util.ts",
+      "../../src/features/processors/resize/worker/missing-types.d.ts",
+      "../../src/features/processors/resize/worker/resize.ts",
+      "../../src/features/worker-utils/index.ts",
+      "../../src/shared/custom-els/loading-spinner/index.ts",
+      "../../src/shared/custom-els/loading-spinner/missing-types.d.ts",
+      "../../src/shared/custom-els/loading-spinner/styles.css.d.ts",
+      "../../src/shared/custom-els/snack-bar/index.ts",
+      "../../src/shared/custom-els/snack-bar/missing-types.d.ts",
+      "../../src/shared/custom-els/snack-bar/styles.css.d.ts",
+      "../../src/shared/missing-preact-types.d.ts",
+      "../../src/shared/missing-types.d.ts",
+      "../../src/shared/prerendered-app/colors.css.d.ts",
+      "../../src/shared/prerendered-app/intro/blob-anim/index.ts",
+      "../../src/shared/prerendered-app/intro/blob-anim/meta.ts",
+      "../../src/shared/prerendered-app/intro/index.tsx",
+      "../../src/shared/prerendered-app/intro/missing-types.d.ts",
+      "../../src/shared/prerendered-app/intro/slideonscroll/index.tsx",
+      "../../src/shared/prerendered-app/intro/style.css.d.ts",
+      "../../src/shared/prerendered-app/util.css.d.ts",
+      "../../src/shared/prerendered-app/util.ts"
+    ]
+  },
+  "version": "4.1.3"
+}

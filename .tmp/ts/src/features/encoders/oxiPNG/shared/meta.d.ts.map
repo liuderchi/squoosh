@@ -1,0 +1,1 @@
+{"version":3,"file":"meta.d.ts","sourceRoot":"","sources":["../../../../../../../src/features/encoders/oxiPNG/shared/meta.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;GAWG;AACH,MAAM,WAAW,aAAa;IAC5B,KAAK,EAAE,MAAM,CAAC;IACd,SAAS,EAAE,OAAO,CAAC;CACpB;AAED,eAAO,MAAM,KAAK,WAAW,CAAC;AAC9B,eAAO,MAAM,QAAQ,cAAc,CAAC;AACpC,eAAO,MAAM,SAAS,QAAQ,CAAC;AAE/B,eAAO,MAAM,cAAc,EAAE,aAG5B,CAAC"}
