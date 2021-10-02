@@ -1,0 +1,31 @@
+import avifDecode from './../features/decoders/avif/worker/avifDecode';
+import jxlDecode from './../features/decoders/jxl/worker/jxlDecode';
+import webpDecode from './../features/decoders/webp/worker/webpDecode';
+import wp2Decode from './../features/decoders/wp2/worker/wp2Decode';
+import avifEncode from './../features/encoders/avif/worker/avifEncode';
+import jxlEncode from './../features/encoders/jxl/worker/jxlEncode';
+import mozjpegEncode from './../features/encoders/mozJPEG/worker/mozjpegEncode';
+import oxipngEncode from './../features/encoders/oxiPNG/worker/oxipngEncode';
+import webpEncode from './../features/encoders/webP/worker/webpEncode';
+import wp2Encode from './../features/encoders/wp2/worker/wp2Encode';
+import rotate from './../features/preprocessors/rotate/worker/rotate';
+import quantize from './../features/processors/quantize/worker/quantize';
+import resize from './../features/processors/resize/worker/resize';
+declare const exports: {
+    avifDecode(blob: Blob): ReturnType<typeof avifDecode>;
+    jxlDecode(blob: Blob): ReturnType<typeof jxlDecode>;
+    webpDecode(blob: Blob): ReturnType<typeof webpDecode>;
+    wp2Decode(blob: Blob): ReturnType<typeof wp2Decode>;
+    avifEncode(data: ImageData, options: import("../../codecs/avif/enc/avif_enc").EncodeOptions): ReturnType<typeof avifEncode>;
+    jxlEncode(data: ImageData, options: import("../../codecs/jxl/enc/jxl_enc").EncodeOptions): ReturnType<typeof jxlEncode>;
+    mozjpegEncode(data: ImageData, options: import("../../codecs/mozjpeg/enc/mozjpeg_enc").EncodeOptions): ReturnType<typeof mozjpegEncode>;
+    oxipngEncode(data: ArrayBuffer, options: import("../features/encoders/oxiPNG/shared/meta").EncodeOptions): ReturnType<typeof oxipngEncode>;
+    webpEncode(data: ImageData, options: import("../../codecs/webp/enc/webp_enc").EncodeOptions): ReturnType<typeof webpEncode>;
+    wp2Encode(data: ImageData, options: import("../../codecs/wp2/enc/wp2_enc").EncodeOptions): ReturnType<typeof wp2Encode>;
+    rotate(data: ImageData, opts: import("../features/preprocessors/rotate/shared/meta").Options): ReturnType<typeof rotate>;
+    quantize(data: ImageData, opts: import("../features/processors/quantize/shared/meta").Options): ReturnType<typeof quantize>;
+    resize(data: ImageData, opts: import("../features/processors/resize/shared/meta").WorkerResizeOptions): ReturnType<typeof resize>;
+};
+export declare type ProcessorWorkerApi = typeof exports;
+export {};
+//# sourceMappingURL=index.d.ts.map

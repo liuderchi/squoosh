@@ -1,0 +1,1 @@
+{"version":3,"file":"meta.d.ts","sourceRoot":"","sources":["../../../../../../../src/features/encoders/webP/shared/meta.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;GAWG;AACH,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,0BAA0B,CAAC;AAE9D,OAAO,EAAE,aAAa,EAAE,CAAC;AAEzB,eAAO,MAAM,KAAK,SAAS,CAAC;AAC5B,eAAO,MAAM,QAAQ,eAAe,CAAC;AACrC,eAAO,MAAM,SAAS,SAAS,CAAC;AAEhC,eAAO,MAAM,cAAc,EAAE,aA4B5B,CAAC"}
