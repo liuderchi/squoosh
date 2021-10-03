@@ -431,7 +431,7 @@ define(['require', 'exports'], function (require, exports) { 'use strict';
     ];
     const blobAnimImport =  matchMedia('(prefers-reduced-motion: reduce)').matches
         ? undefined
-        : require('./blob-anim-1f90a76c');
+        : require('./blob-anim-87d44b87');
     const installButtonSource = 'introInstallButton-Purple';
     const supportsClipboardAPI =  navigator.clipboard && navigator.clipboard.read;
     async function getImageClipboardItem(items) {
@@ -646,7 +646,7 @@ define(['require', 'exports'], function (require, exports) { 'use strict';
     }
 
     const ROUTE_EDITOR = '/editor';
-    const compressPromise = require('./Compress-75b0f1cb');
+    const compressPromise = require('./Compress-717d0c3a');
     const swBridgePromise = require('./sw-bridge-eb1b7b9b');
     function back() {
         window.history.back();

@@ -66,7 +66,7 @@ export default class Results extends Component {
                         h("svg", { viewBox: "0 0 1 2", class: style.bigArrow, preserveAspectRatio: "none" },
                             h("path", { d: "M1 0v2L0 1z" })),
                         h("div", { class: style.percentOutput },
-                            diff && diff !== 1 && (h("span", { class: style.sizeDirection }, diff < 1 ? '↓' : '↑')),
+                            diff && diff !== 1 && (h("span", { class: style.sizeDirection }, diff < 1 ? 'v' : '^')),
                             h("span", { class: style.sizeValue }, percent || 0),
                             h("span", { class: style.percentChar }, "%"))))),
             h("a", { class: showLoadingState ? style.downloadDisable : style.download, href: downloadUrl, download: imageFile ? imageFile.name : '', title: "Download", onClick: this.onDownload },

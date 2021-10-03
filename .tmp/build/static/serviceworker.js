@@ -1,21 +1,21 @@
 const ASSETS = [
   "c/github-logo-bc05494c.svg",
   "c/logo-bcc20dd5.svg",
-  "c/icon-demo-artwork-9eba1655.jpg",
   "c/icon-demo-large-photo-18da387a.jpg",
-  "c/secure-a66bbdfe.svg",
-  "c/icon-demo-device-screen-5d52d8b9.jpg",
-  "c/simple-258b6ed5.svg",
   "c/icon-demo-logo-326ed9b6.png",
+  "c/icon-demo-device-screen-5d52d8b9.jpg",
+  "c/secure-a66bbdfe.svg",
   "c/small-db1eae6f.svg",
+  "c/icon-demo-artwork-9eba1655.jpg",
+  "c/simple-258b6ed5.svg",
   "c/rotate-e8fb6784.wasm",
   "c/imagequant-a10bbe1a.wasm",
   "c/webp_dec-12bed04a.wasm",
   "c/demo-device-screen-b9d088e8.png",
   "c/squoosh_oxipng_bg-bb6b7672.wasm",
   "c/squoosh_resize_bg-3d426466.wasm",
-  "c/squoosh_oxipng_bg-89ef9006.wasm",
   "c/webp_enc-a8223a7d.wasm",
+  "c/squoosh_oxipng_bg-89ef9006.wasm",
   "c/mozjpeg_enc-f6bf569c.wasm",
   "c/webp_enc_simd-75acd924.wasm",
   "c/squooshhqx_bg-6e04a330.wasm",
@@ -32,21 +32,21 @@ const ASSETS = [
   "c/jxl_enc_mt_simd-bec880cc.wasm",
   "c/avif_enc-b345922b.wasm",
   "c/avif_enc_mt-e6a6332c.wasm",
-  "c/initial-app-c129a39e.js",
+  "c/initial-app-51477545.js",
   "c/idb-keyval-9d9b390d.js",
   "c/index-5f659321.js",
   "c/features-worker-ed44e102.js",
   "c/util-06ce6ead.js",
-  "c/jxl_enc_mt_simd.worker-7545d6ec.js",
   "c/jxl_enc_mt.worker-e0ddfa16.js",
-  "c/wp2_enc_mt.worker-e14ebccf.js",
+  "c/jxl_enc_mt_simd.worker-7545d6ec.js",
   "c/avif_enc_mt.worker-be418551.js",
   "c/wp2_enc_mt_simd.worker-d4445a36.js",
+  "c/wp2_enc_mt.worker-e14ebccf.js",
   "c/workerHelpers-df704e42.js",
   "c/debug-ecb398ca.js",
-  "c/Compress-75b0f1cb.js",
+  "c/Compress-717d0c3a.js",
   "c/sw-bridge-eb1b7b9b.js",
-  "c/blob-anim-1f90a76c.js",
+  "c/blob-anim-87d44b87.js",
   "c/avif_dec-d2924c58.js",
   "c/webp_dec-318dc2b4.js",
   "c/avif_enc_mt-3ca53a00.js",
@@ -62,7 +62,7 @@ const ASSETS = [
   "c/wp2_enc_mt-c0fc8f9c.js",
   "c/wp2_enc-f854d67c.js"
 ];
-const VERSION = "0180a18671f056e49eebc12a7057c7a3d9397dd9";
+const VERSION = "c7526283aeca041de9d4509158f5d0f2b8d34737";
 /**
  * Copyright 2021 Google Inc. All Rights Reserved.
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -144,19 +144,19 @@ define(['require', './c/index-5f659321', './c/idb-keyval-9d9b390d'], function (r
 
     var avifDataUrl = "data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUEAAADybWV0YQAAAAAAAAAoaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAGxpYmF2aWYAAAAADnBpdG0AAAAAAAEAAAAeaWxvYwAAAABEAAABAAEAAAABAAABGgAAABUAAAAoaWluZgAAAAAAAQAAABppbmZlAgAAAAABAABhdjAxQ29sb3IAAAAAamlwcnAAAABLaXBjbwAAABRpc3BlAAAAAAAAAAEAAAABAAAAEHBpeGkAAAAAAwgICAAAAAxhdjFDgS0AAAAAABNjb2xybmNseAACAAIAAoAAAAAXaXBtYQAAAAAAAAABAAEEAQKDBAAAAB1tZGF0EgAKBDgADskyCx/wAABYAAAAAK+w";
 
-    const main = "/c/initial-app-c129a39e.js";
+    const main = "/c/initial-app-51477545.js";
     const deps = ["/c/logo-bcc20dd5.svg","/c/github-logo-bc05494c.svg","/c/demo-large-photo-a6b23f7b.jpg","/c/demo-artwork-c444f915.jpg","/c/demo-device-screen-b9d088e8.png","/c/icon-demo-large-photo-18da387a.jpg","/c/icon-demo-artwork-9eba1655.jpg","/c/icon-demo-device-screen-5d52d8b9.jpg","/c/small-db1eae6f.svg","/c/simple-258b6ed5.svg","/c/secure-a66bbdfe.svg","/c/icon-demo-logo-326ed9b6.png"];
 
     var swUrl = "/serviceworker.js";
 
-    const main$1 = "/c/Compress-75b0f1cb.js";
-    const deps$1 = ["/c/initial-app-c129a39e.js","/c/util-06ce6ead.js","/c/features-worker-ed44e102.js","/c/logo-bcc20dd5.svg","/c/github-logo-bc05494c.svg","/c/demo-large-photo-a6b23f7b.jpg","/c/demo-artwork-c444f915.jpg","/c/demo-device-screen-b9d088e8.png","/c/icon-demo-large-photo-18da387a.jpg","/c/icon-demo-artwork-9eba1655.jpg","/c/icon-demo-device-screen-5d52d8b9.jpg","/c/small-db1eae6f.svg","/c/simple-258b6ed5.svg","/c/secure-a66bbdfe.svg","/c/icon-demo-logo-326ed9b6.png"];
+    const main$1 = "/c/Compress-717d0c3a.js";
+    const deps$1 = ["/c/initial-app-51477545.js","/c/util-06ce6ead.js","/c/features-worker-ed44e102.js","/c/logo-bcc20dd5.svg","/c/github-logo-bc05494c.svg","/c/demo-large-photo-a6b23f7b.jpg","/c/demo-artwork-c444f915.jpg","/c/demo-device-screen-b9d088e8.png","/c/icon-demo-large-photo-18da387a.jpg","/c/icon-demo-artwork-9eba1655.jpg","/c/icon-demo-device-screen-5d52d8b9.jpg","/c/small-db1eae6f.svg","/c/simple-258b6ed5.svg","/c/secure-a66bbdfe.svg","/c/icon-demo-logo-326ed9b6.png"];
 
     const main$2 = "/c/sw-bridge-eb1b7b9b.js";
     const deps$2 = ["/c/idb-keyval-9d9b390d.js"];
 
-    const main$3 = "/c/blob-anim-1f90a76c.js";
-    const deps$3 = ["/c/initial-app-c129a39e.js","/c/logo-bcc20dd5.svg","/c/github-logo-bc05494c.svg","/c/demo-large-photo-a6b23f7b.jpg","/c/demo-artwork-c444f915.jpg","/c/demo-device-screen-b9d088e8.png","/c/icon-demo-large-photo-18da387a.jpg","/c/icon-demo-artwork-9eba1655.jpg","/c/icon-demo-device-screen-5d52d8b9.jpg","/c/small-db1eae6f.svg","/c/simple-258b6ed5.svg","/c/secure-a66bbdfe.svg","/c/icon-demo-logo-326ed9b6.png"];
+    const main$3 = "/c/blob-anim-87d44b87.js";
+    const deps$3 = ["/c/initial-app-51477545.js","/c/logo-bcc20dd5.svg","/c/github-logo-bc05494c.svg","/c/demo-large-photo-a6b23f7b.jpg","/c/demo-artwork-c444f915.jpg","/c/demo-device-screen-b9d088e8.png","/c/icon-demo-large-photo-18da387a.jpg","/c/icon-demo-artwork-9eba1655.jpg","/c/icon-demo-device-screen-5d52d8b9.jpg","/c/small-db1eae6f.svg","/c/simple-258b6ed5.svg","/c/secure-a66bbdfe.svg","/c/icon-demo-logo-326ed9b6.png"];
 
     const main$4 = "/c/features-worker-ed44e102.js";
     const deps$4 = ["/c/util-06ce6ead.js","/c/index-5f659321.js","/c/jxl_dec-e89756e1.wasm","/c/wp2_dec-9a40adf1.wasm","/c/mozjpeg_enc-f6bf569c.wasm","/c/rotate-e8fb6784.wasm","/c/imagequant-a10bbe1a.wasm","/c/squoosh_resize_bg-3d426466.wasm","/c/squooshhqx_bg-6e04a330.wasm"];

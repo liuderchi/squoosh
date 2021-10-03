@@ -1,4 +1,4 @@
-define(['require', 'exports', './initial-app-c129a39e', './util-06ce6ead'], function (require, exports, index, util) { 'use strict';
+define(['require', 'exports', './initial-app-51477545', './util-06ce6ead'], function (require, exports, index, util) { 'use strict';
 
     const compress = "_compress_zecs5_1";
     const options = "_options_zecs5_22";
@@ -3425,7 +3425,7 @@ define(['require', 'exports', './initial-app-c129a39e', './util-06ce6ead'], func
                             index.h("svg", { viewBox: "0 0 1 2", class: bigArrow, preserveAspectRatio: "none" },
                                 index.h("path", { d: "M1 0v2L0 1z" })),
                             index.h("div", { class: percentOutput },
-                                diff && diff !== 1 && (index.h("span", { class: sizeDirection }, diff < 1 ? '↓' : '↑')),
+                                diff && diff !== 1 && (index.h("span", { class: sizeDirection }, diff < 1 ? 'v' : '^')),
                                 index.h("span", { class: sizeValue }, percent || 0),
                                 index.h("span", { class: percentChar }, "%"))))),
                 index.h("a", { class: showLoadingState ? downloadDisable : download, href: downloadUrl, download: imageFile ? imageFile.name : '', title: "Download", onClick: this.onDownload },
