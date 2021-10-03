@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../../../src/shared/custom-els/loading-spinner/index.ts"],"names":[],"mappings":"AACA,OAAO,sBAAsB,CAAC;AAG9B,QAAA,MAAM,MAAM;;;CAEsC,CAAC;AAEnD;;;;;;;;;GASG;AACH,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,MAAM;IAChD,OAAO,CAAC,aAAa,CAAa;IAElC,oBAAoB;IAKpB,iBAAiB;CA+BlB"}
