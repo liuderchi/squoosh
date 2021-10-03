@@ -777,7 +777,7 @@
         "affectsGlobalScope": false
       },
       "../../src/client/lazy-app/compress/results/index.tsx": {
-        "version": "7b0b0fe1451e1c1dc258b60409f09a28d52a020c44365a621180b7a3a9c6df0e",
+        "version": "17c12fa86e59a028aefae96e7c2fa2fb6760298acb6cf28ee7dfe4d0764506bf",
         "signature": "4d9a65d7229bf88f6e5550c90796b0bf36a477d4180cb50088b84aa9a4787c8b",
         "affectsGlobalScope": false
       },
