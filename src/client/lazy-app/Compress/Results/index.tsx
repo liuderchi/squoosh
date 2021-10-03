@@ -110,11 +110,11 @@ export default class Results extends Component<Props, State> {
               <div class={style.percentOutput}>
                 {diff && diff !== 1 && (
                   <span class={style.sizeDirection}>
-                    {diff < 1 ? '↓' : '↑'}
+                    {diff < 1 ? 'v' : '^'}
                   </span>
                 )}
                 <span class={style.sizeValue}>{percent || 0}</span>
-                <span class={style.percentChar}>%</span>
+                <span class={style.percentChar}>&#37;</span>
               </div>
             </div>
           </div>
